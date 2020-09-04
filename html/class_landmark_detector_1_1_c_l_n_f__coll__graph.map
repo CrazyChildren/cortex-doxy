@@ -1,0 +1,7 @@
+<map id="LandmarkDetector::CLNF" name="LandmarkDetector::CLNF">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_detection_validator.html" title="LandmarkDetector::Detection\lValidator" alt="" coords="281,5,496,47"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html" title="LandmarkDetector::FaceDetector\lMTCNN" alt="" coords="271,71,507,112"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_c_n_n.html" title="LandmarkDetector::CNN" alt="" coords="5,78,185,105"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_p_d_m.html" title="LandmarkDetector::PDM" alt="" coords="299,137,479,163"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_patch__experts.html" title="LandmarkDetector::Patch\l_experts" alt="" coords="295,188,482,229"/>
+</map>

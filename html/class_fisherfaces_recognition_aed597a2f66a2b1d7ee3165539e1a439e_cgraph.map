@@ -1,0 +1,10 @@
+<map id="FisherfacesRecognition::deleteAll" name="FisherfacesRecognition::deleteAll">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#ac58fe879a5ecaf39e9217134470ac1d4" title="PreprocessFace::clear" alt="" coords="228,23,391,49"/>
+<area shape="rect" id="node3" href="$class_fisher_model_entity.html#aa24edff0f93f5d6163d4de1d45853f9e" title="FisherModelEntity::\lloadModel" alt="" coords="237,74,381,115"/>
+<area shape="rect" id="node9" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="224,139,395,181"/>
+<area shape="rect" id="node4" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="443,31,620,57"/>
+<area shape="rect" id="node7" href="$class_s_q_lite_connector.html#a6cb50f9a9c8204ece4b0ed60ab8f6fc1" title="SQLiteConnector::next" alt="" coords="448,81,615,108"/>
+<area shape="rect" id="node8" href="$namespace_configuration.html#a1617790e3569768cbc1518ad63deeb0e" title="Configuration::getFisher\lModelName" alt="" coords="443,133,619,174"/>
+<area shape="rect" id="node5" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="669,5,901,32"/>
+<area shape="rect" id="node6" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="668,56,903,83"/>
+</map>

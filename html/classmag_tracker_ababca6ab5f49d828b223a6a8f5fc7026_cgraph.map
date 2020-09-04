@@ -1,0 +1,4 @@
+<map id="magTracker::connect" name="magTracker::connect">
+<area shape="rect" id="node2" href="$class_pi_tracker.html#a2b02d72c02053c9abef00d3671c4e173" title="PiTracker::UsbConnect" alt="" coords="219,5,385,32"/>
+<area shape="rect" id="node3" href="$class_pi_tracker.html#a496addc7e77dec0d278bbc56b6731e2a" title="PiTracker::Rs232Connect" alt="" coords="211,56,393,83"/>
+</map>

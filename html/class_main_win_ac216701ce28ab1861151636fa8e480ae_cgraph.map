@@ -1,0 +1,19 @@
+<map id="MainWin::MainWin" name="MainWin::MainWin">
+<area shape="rect" id="node2" href="$class_main_win.html#abcc34b63941fe9a8d8dd2402b6b763f0" title="MainWin::windowLoad" alt="" coords="196,351,363,377"/>
+<area shape="rect" id="node3" href="$class_main_win.html#a531108674dc5e504c48715ef25fd14a5" title="MainWin::createAction" alt="" coords="412,275,580,301"/>
+<area shape="rect" id="node16" href="$class_main_win.html#a502337156e246d04109bbd0b6142732a" title="MainWin::loadToolbar 加载toolbar的actions. " alt="" coords="415,325,577,352"/>
+<area shape="rect" id="node17" href="$class_main_win.html#a1770081456f24554927f0f141ac063a4" title="MainWin::hideTitleBar 隐藏标题栏 " alt="" coords="413,376,579,403"/>
+<area shape="rect" id="node18" href="$class_main_win.html#a09e81d9a03a9e3a670c5ea9c9be6a409" title="MainWin::showTitleBar 显示标题栏（正常） " alt="" coords="411,427,581,453"/>
+<area shape="rect" id="node4" href="$class_main_win.html#a37b8be8e3f3194b1b0dd57b6521d1f63" title="MainWin::returnGuidWinSlot" alt="" coords="650,5,855,32"/>
+<area shape="rect" id="node5" href="$class_main_win.html#a53126c7939b52fabd705bda3b887f94c" title="MainWin::shutDownSlot" alt="" coords="665,56,841,83"/>
+<area shape="rect" id="node6" href="$class_main_win.html#af18700bd2ded7cb402af39a8a291c025" title="MainWin::toNeuroNavigationSlot" alt="" coords="635,107,870,133"/>
+<area shape="rect" id="node7" href="$class_main_win.html#a0cb8cf2efea56ace5241fb67cfe9dade" title="MainWin::toPatientLoginSlot" alt="" coords="651,157,855,184"/>
+<area shape="rect" id="node8" href="$class_main_win.html#af34760fd216bd74cfad7f78e79e6dd9f" title="MainWin::toPatientMedical\lRecordSlot" alt="" coords="655,209,850,250"/>
+<area shape="rect" id="node9" href="$class_main_win.html#afc28441ca403fab800b7856d7105b877" title="MainWin::toRobotManagementSlot" alt="" coords="629,275,876,301"/>
+<area shape="rect" id="node10" href="$class_main_win.html#af51ce7fb98db266ce976e27d08ad97fb" title="MainWin::toHelpSlot" alt="" coords="675,325,830,352"/>
+<area shape="rect" id="node11" href="$class_main_win.html#abea4c7069ea8b88c74121c9ea7fc2670" title="MainWin::toAdminSlot" alt="" coords="669,376,836,403"/>
+<area shape="rect" id="node12" href="$class_main_win.html#a2cbe7f07b7347f5e650e71fcfe6da983" title="MainWin::logOffSlot" alt="" coords="677,427,828,453"/>
+<area shape="rect" id="node14" href="$class_main_win.html#a4f609763558c53d6831f109bba7fd10c" title="MainWin::toHead_trackSlot" alt="" coords="653,477,852,504"/>
+<area shape="rect" id="node15" href="$class_main_win.html#ac8fb77f8a99867ae50e7eb80d2fa9606" title="MainWin::toTestWinSlot" alt="" coords="665,528,840,555"/>
+<area shape="rect" id="node13" href="$class_main_win.html#a284f41b4e5f1c44173537e011332bd07" title="MainWin::hideTools 隐藏所有的工具栏 " alt="" coords="924,427,1071,453"/>
+</map>

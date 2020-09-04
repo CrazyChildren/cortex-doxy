@@ -1,0 +1,14 @@
+<map id="apply_correction" name="apply_correction">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html#a06a1a19f2ff9d651c56c111b64f49e7f" title="LandmarkDetector::FaceDetector\lMTCNN::DetectFaces" alt="" coords="184,39,420,80"/>
+<area shape="rect" id="node3" href="$namespace_landmark_detector.html#a0bcdd004ceb18ed6b73dd93a6514b767" title="LandmarkDetector::Detect\lFacesMTCNN" alt="" coords="468,5,663,47"/>
+<area shape="rect" id="node4" href="$namespace_landmark_detector.html#af4b01c2716aa2fda27a952359bf8f71f" title="LandmarkDetector::Detect\lSingleFaceMTCNN" alt="" coords="468,71,663,112"/>
+<area shape="rect" id="node5" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="953,71,1148,112"/>
+<area shape="rect" id="node13" href="$namespace_landmark_detector.html#a8153960ecc1e3b9e12c35787ddb5ca19" title="LandmarkDetector::Detect\lLandmarksInImage" alt="" coords="711,100,905,141"/>
+<area shape="rect" id="node6" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="1196,37,1401,79"/>
+<area shape="rect" id="node12" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="1201,103,1396,144"/>
+<area shape="rect" id="node7" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="1449,45,1643,71"/>
+<area shape="rect" id="node8" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="1691,37,1849,79"/>
+<area shape="rect" id="node9" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="1897,37,2107,79"/>
+<area shape="rect" id="node10" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="2155,37,2309,79"/>
+<area shape="rect" id="node11" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="2357,37,2520,79"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TCPConnect::signalConnected" name="TCPConnect::signalConnected">
+<area shape="rect" id="node2" href="$class_t_c_p_connect.html#a15d0694d1b257fbd36c30a7e58d53743" title="TCPConnect::slotSendConnected\lSignal" alt="" coords="268,5,500,47"/>
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html#ac57f75ee87c40add58e3733c59404bcb" title="TCPConnect::ConnectFailSlot" alt="" coords="281,71,487,98"/>
+<area shape="rect" id="node3" href="$class_t_c_p_connect.html#af712e3fe7fe90eafee4087f42d5bbe48" title="TCPConnect::TCPConnect" alt="" coords="548,42,732,69"/>
+</map>

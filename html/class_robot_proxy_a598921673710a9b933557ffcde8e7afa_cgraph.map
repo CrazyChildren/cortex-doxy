@@ -1,0 +1,6 @@
+<map id="RobotProxy::slotOpenForceSensor" name="RobotProxy::slotOpenForceSensor">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#a5da838114eb1b5dbd179e7f1fb79a258" title="open forceSensor, not used, these was exactly same as ftusb file open_sensor() " alt="" coords="249,56,464,83"/>
+<area shape="rect" id="node3" href="$class_opto_ports.html#a8ab57858660285f4ac5bcf1b3f07c98e" title="OptoPorts::listPorts" alt="" coords="523,5,670,32"/>
+<area shape="rect" id="node4" href="$class_opto_ports.html#a1483db815d475fa82d63dae2cc5db427" title="OptoPorts::getLastSize" alt="" coords="512,56,681,83"/>
+<area shape="rect" id="node5" href="$class_opto_d_a_q.html#ac1ee37bfd0a7db3e16dbc470f2096eb2" title="OptoDAQ::open" alt="" coords="535,107,658,133"/>
+</map>

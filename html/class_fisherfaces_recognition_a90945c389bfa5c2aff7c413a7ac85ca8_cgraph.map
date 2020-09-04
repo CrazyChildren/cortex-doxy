@@ -1,0 +1,7 @@
+<map id="FisherfacesRecognition::addNewTrainPerson" name="FisherfacesRecognition::addNewTrainPerson">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a2c8453e74e29ab69bd16fb8a36a5a41a" title="FisherfacesRecognition\l::getCollectionNum" alt="" coords="224,71,395,112"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#afe36642529e1b387e4ce106e3e76bf05" title="FisherfacesRecognition\l::setCollectionNum" alt="" coords="224,136,395,177"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#a0c97c8e11b165d2847d6a7f4f417f609" title="FisherfacesRecognition\l::setNumPersons" alt="" coords="224,201,395,243"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="224,267,395,308"/>
+</map>

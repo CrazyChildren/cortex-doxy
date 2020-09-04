@@ -1,0 +1,19 @@
+<map id="LandmarkDetector::PDM::CalcParams" name="LandmarkDetector::PDM::CalcParams">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_p_d_m.html#a0ac1242f0e3ab33c2cf8adfd50004d52" title="LandmarkDetector::PDM\l::NumberOfModes" alt="" coords="233,298,413,339"/>
+<area shape="rect" id="node5" href="$stdafx_8h.html#a0ff825e6e6cd216038f11280a5578e1b" title="sgemm_" alt="" coords="1177,557,1256,584"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_p_d_m.html#a9bdfa88e51f605a55da61c5f6c380ff0" title="LandmarkDetector::PDM\l::NumberOfPoints" alt="" coords="947,122,1127,163"/>
+<area shape="rect" id="node8" href="$namespace_utilities.html#ac33d7987f7ca362e691087e9036c2000" title="Utilities::Euler2Rotation\lMatrix" alt="" coords="949,414,1125,455"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_p_d_m.html#a5e531fa6b2e794bf71cd9d3ad661dfb1" title="LandmarkDetector::PDM\l::CalcBoundingBox" alt="" coords="467,92,647,134"/>
+<area shape="rect" id="node11" href="$namespace_landmark_detector.html#ac63683987824518da16f521a18e86409" title="LandmarkDetector::Extract\lBoundingBox" alt="" coords="700,34,897,75"/>
+<area shape="rect" id="node13" href="$class_landmark_detector_1_1_p_d_m.html#a44ff89b30c18a872fe22f70edfbe1229" title="LandmarkDetector::PDM\l::ComputeJacobian" alt="" coords="467,158,647,199"/>
+<area shape="rect" id="node14" href="$class_landmark_detector_1_1_p_d_m.html#a9a59eb2db4059cd3ed03c64707095637" title="LandmarkDetector::PDM\l::UpdateModelParameters" alt="" coords="461,544,652,586"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_p_d_m.html#a3784c1543682a3c4a8ea9fd86ba9a8be" title="LandmarkDetector::PDM\l::Clamp" alt="" coords="467,376,647,418"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_p_d_m.html#a4a0a9e6eb557df2d28e70b6e4c525bee" title="LandmarkDetector::PDM\l::CalcShape3D" alt="" coords="947,290,1127,331"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_p_d_m.html#a3d7a0f75258fc41bc63bb397549faec6" title="LandmarkDetector::PDM\l::CalcShape2D" alt="" coords="709,151,889,192"/>
+<area shape="rect" id="node9" href="$class_landmark_detector_1_1_p_d_m.html#aaab172f51e499f0dffd348648a6d24ff" title="LandmarkDetector::PDM\l::CalcParams" alt="" coords="709,384,889,426"/>
+<area shape="rect" id="node12" href="$class_landmark_detector_1_1_p_d_m.html#a3b3d41977afebec24cb26af4cd277f18" title="LandmarkDetector::PDM\l::ComputeRigidJacobian" alt="" coords="709,319,889,360"/>
+<area shape="rect" id="node15" href="$class_landmark_detector_1_1_p_d_m.html#a5ecf36d5d140f0dcb24b6981b8cacbb7" title="LandmarkDetector::PDM\l::Orthonormalise" alt="" coords="709,502,889,543"/>
+<area shape="rect" id="node16" href="$namespace_utilities.html#a94c1ff56db6714e75e229c82ec116780" title="Utilities::RotationMatrix2\lAxisAngle" alt="" coords="707,619,891,660"/>
+<area shape="rect" id="node17" href="$namespace_utilities.html#a4660ff07ca8ea94479ae4bcb1b9691b0" title="Utilities::AxisAngle2Euler" alt="" coords="705,736,892,762"/>
+<area shape="rect" id="node18" href="$namespace_utilities.html#ac505d78fefa11d22a6fb0ffcf514f121" title="Utilities::RotationMatrix2\lEuler" alt="" coords="945,720,1129,762"/>
+</map>

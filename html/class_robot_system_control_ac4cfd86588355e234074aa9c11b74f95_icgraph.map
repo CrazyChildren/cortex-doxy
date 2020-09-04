@@ -1,0 +1,10 @@
+<map id="RobotSystemControl::getShowRect" name="RobotSystemControl::getShowRect">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#ad25a640dc68d2f2568524fd2b8789bf4" title="resize a cv::mat image " alt="" coords="208,100,363,141"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a15a094a61cc564bbbb676924d8e712fe" title="display image in a Qlabel " alt="" coords="411,100,585,141"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#af05e9e56992b3bd4e3be7ff7bd8534cf" title="RobotSystemControl\l::updateCameraDisplaySlot" alt="" coords="651,5,851,47"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#ad2ede35cd735ddef2b5451b03656dd30" title="RobotSystemControl\l::updateDeepCameraDisplaySlot" alt="" coords="633,71,868,112"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a4e9e479b2a057e57009e4acadbb4c962" title="display deepCamera image in qlabel " alt="" coords="916,125,1151,167"/>
+<area shape="rect" id="node9" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="956,191,1111,232"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="956,60,1111,101"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1199,125,1361,167"/>
+</map>

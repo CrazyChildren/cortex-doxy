@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::changeWinSlot" name="RobotSystemControl::changeWinSlot">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a0ee2afc10b44578c8d7c18f76aeaf3f5" title="init function, to init windows display " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="208,71,363,112"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="411,39,573,80"/>
+</map>

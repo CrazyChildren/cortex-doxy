@@ -1,0 +1,5 @@
+<map id="HeadTrack::init_track_head" name="HeadTrack::init_track_head">
+<area shape="rect" id="node2" href="$class_head_track.html#a79636eaf2a38ad66ffd1e80d8187a2c5" title="HeadTrack::createLookup" alt="" coords="252,5,439,32"/>
+<area shape="rect" id="node3" href="$class_head_track.html#af094ae9119d7d2d75d4cae0808737302" title="HeadTrack::init_cloud" alt="" coords="265,56,426,83"/>
+<area shape="rect" id="node4" href="$class_head_track.html#a7d17cf972d90d91e9248af5f3d974f35" title="HeadTrack::init_Dlib" alt="" coords="269,107,421,133"/>
+</map>

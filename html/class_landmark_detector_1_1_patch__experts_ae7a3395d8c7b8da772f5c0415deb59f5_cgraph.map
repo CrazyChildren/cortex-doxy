@@ -1,0 +1,11 @@
+<map id="LandmarkDetector::Patch_experts::GetViewIdx" name="LandmarkDetector::Patch_experts::GetViewIdx">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_patch__experts.html#ae0938855f2ea3ed2376d3debd93510f6" title="LandmarkDetector::Patch\l_experts::nViews" alt="" coords="240,129,427,170"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_patch__experts.html#af1e50a79663f0d240d31bea2ea1fe585" title="LandmarkDetector::Patch\l_experts::Read" alt="" coords="475,129,661,170"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_patch__experts.html#a7ddb4c3d377a982086cc95cfde9ca500" title="LandmarkDetector::Patch\l_experts::Read_SVR_patch\l_experts" alt="" coords="713,15,908,71"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_patch__experts.html#a25b30233ab01f56c30d4cf401d831859" title="LandmarkDetector::Patch\l_experts::Read_CCNF_patch\l_experts" alt="" coords="709,176,912,232"/>
+<area shape="rect" id="node9" href="$class_landmark_detector_1_1_patch__experts.html#a8401de1779b5ac2d7847b32330133d55" title="LandmarkDetector::Patch\l_experts::Read_CEN_patch\l_experts" alt="" coords="713,96,908,152"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_patch__experts.html#ad3ab893e67a141446ac85669c388f414" title="LandmarkDetector::Patch\l_experts::Collect_visible\l_landmarks" alt="" coords="475,245,661,301"/>
+<area shape="rect" id="node5" href="$namespace_landmark_detector.html#a2376077b350b2038cda589246fc225fb" title="LandmarkDetector::SkipComments" alt="" coords="960,56,1211,83"/>
+<area shape="rect" id="node6" href="$namespace_landmark_detector.html#a64a98273c9582757e52b191cd951dcf9" title="LandmarkDetector::ReadMat" alt="" coords="982,5,1189,32"/>
+<area shape="rect" id="node8" href="$namespace_landmark_detector.html#aa8dad6c200bb43c9c9557fd5cb362a64" title="LandmarkDetector::ReadMatBin" alt="" coords="971,136,1199,163"/>
+</map>

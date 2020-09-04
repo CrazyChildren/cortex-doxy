@@ -1,0 +1,26 @@
+<map id="RobotSystemControl::updateRobotStateSlot" name="RobotSystemControl::updateRobotStateSlot">
+<area shape="rect" id="node2" href="$class_tool_coordinate.html#a5aa2e78d459d038096e20631386faed1" title="ToolCoordinate::getX" alt="" coords="248,5,405,32"/>
+<area shape="rect" id="node3" href="$class_tool_coordinate.html#a87ddc05c6b3dd05f7fafb570cd3fe5ca" title="ToolCoordinate::getY" alt="" coords="249,56,405,83"/>
+<area shape="rect" id="node4" href="$class_tool_coordinate.html#a10b8e2ca9205aa662ad4b65b12ed0980" title="ToolCoordinate::getZ" alt="" coords="248,107,405,133"/>
+<area shape="rect" id="node5" href="$class_tool_coordinate.html#adf538ebec467597d869554e4d340b537" title="ToolCoordinate::getRx" alt="" coords="244,157,409,184"/>
+<area shape="rect" id="node6" href="$class_tool_coordinate.html#ae34afc9f63ed54e7306bd67da9fecdd1" title="ToolCoordinate::getRy" alt="" coords="245,208,409,235"/>
+<area shape="rect" id="node7" href="$class_tool_coordinate.html#ab4b53ca6f5edd8c46278396d7d8f670f" title="ToolCoordinate::getRz" alt="" coords="245,259,409,285"/>
+<area shape="rect" id="node8" href="$class_tool_coordinate.html#ae1b6494de59e9813682abdeb3f93e697" title="ToolCoordinate::getXSpeed" alt="" coords="228,309,425,336"/>
+<area shape="rect" id="node9" href="$class_tool_coordinate.html#a76b0892541f026ccf980b6318973b32b" title="ToolCoordinate::getYSpeed" alt="" coords="229,360,425,387"/>
+<area shape="rect" id="node10" href="$class_tool_coordinate.html#ae86fa7d2e8f1ea22fabf2f31490867c4" title="ToolCoordinate::getZSpeed" alt="" coords="228,411,425,437"/>
+<area shape="rect" id="node11" href="$class_tool_coordinate.html#a0565b9cd84fa9b1212f11b6bd9183b38" title="ToolCoordinate::getRxSpeed" alt="" coords="224,461,429,488"/>
+<area shape="rect" id="node12" href="$class_tool_coordinate.html#a7ac2770a05c817958ba5a2cdd2847efa" title="ToolCoordinate::getRySpeed" alt="" coords="225,512,429,539"/>
+<area shape="rect" id="node13" href="$class_tool_coordinate.html#a78b59cdfe0764f566fd994ba85844821" title="ToolCoordinate::getRzSpeed" alt="" coords="225,563,429,589"/>
+<area shape="rect" id="node14" href="$classrobot_joint.html#a5827e6d6077c75aa89b633a248534135" title="robotJoint::getJoint1" alt="" coords="251,613,402,640"/>
+<area shape="rect" id="node15" href="$classrobot_joint.html#a8f90d4931a47e825d4abba601d852366" title="robotJoint::getJoint2" alt="" coords="251,664,402,691"/>
+<area shape="rect" id="node16" href="$classrobot_joint.html#a27fef47935c62679440e505ca5f96a1c" title="robotJoint::getJoint3" alt="" coords="251,715,402,741"/>
+<area shape="rect" id="node17" href="$classrobot_joint.html#a8d1b10ef742ac0e9fe5db02a94969424" title="robotJoint::getJoint4" alt="" coords="251,765,402,792"/>
+<area shape="rect" id="node18" href="$classrobot_joint.html#a7de58b628ead92b7b3fc3bfbf074ecfc" title="robotJoint::getJoint5" alt="" coords="251,816,402,843"/>
+<area shape="rect" id="node19" href="$classrobot_joint.html#a92767ed9f917321cd2e9c86ccf7f42d9" title="robotJoint::getJoint6" alt="" coords="251,867,402,893"/>
+<area shape="rect" id="node20" href="$classrobot_joint.html#a3a96625f13af1842b8b992a689e60508" title="robotJoint::getJoint1Speed" alt="" coords="231,917,422,944"/>
+<area shape="rect" id="node21" href="$classrobot_joint.html#a3134c05c6bc878f729602f209de633b6" title="robotJoint::getJoint2Speed" alt="" coords="231,968,422,995"/>
+<area shape="rect" id="node22" href="$classrobot_joint.html#a6c8eb40215df4797dc8b7ff419d9ff29" title="robotJoint::getJoint3Speed" alt="" coords="231,1019,422,1045"/>
+<area shape="rect" id="node23" href="$classrobot_joint.html#a709669e52e2cde717ffbc44433f833ef" title="robotJoint::getJoint4Speed" alt="" coords="231,1069,422,1096"/>
+<area shape="rect" id="node24" href="$classrobot_joint.html#a914fca9e9d8169844295c9d38de68aa0" title="robotJoint::getJoint5Speed" alt="" coords="231,1120,422,1147"/>
+<area shape="rect" id="node25" href="$classrobot_joint.html#ae50e3be54569a610dc4f50ba76b68794" title="robotJoint::getJoint6Speed" alt="" coords="231,1171,422,1197"/>
+</map>

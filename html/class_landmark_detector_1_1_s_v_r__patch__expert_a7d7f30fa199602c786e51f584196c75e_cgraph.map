@@ -1,0 +1,9 @@
+<map id="LandmarkDetector::SVR_patch_expert::SVR_patch_expert" name="LandmarkDetector::SVR_patch_expert::SVR_patch_expert">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a6fec2796b5f00c327759e389eff15b14" title="LandmarkDetector::SVR\l_patch_expert::Read" alt="" coords="267,5,444,47"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a9fb39e46e9ad8d5a17699679ff036a6d" title="LandmarkDetector::SVR\l_patch_expert::Response" alt="" coords="263,71,447,112"/>
+<area shape="rect" id="node8" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a0d041c6e9d6c4c92be506db9d4b4c6b1" title="LandmarkDetector::SVR\l_patch_expert::ResponseDepth" alt="" coords="244,136,467,177"/>
+<area shape="rect" id="node3" href="$namespace_landmark_detector.html#a64a98273c9582757e52b191cd951dcf9" title="LandmarkDetector::ReadMat" alt="" coords="547,13,754,39"/>
+<area shape="rect" id="node5" href="$_s_v_r__patch__expert_8cpp.html#a60051de25400eae3bc87eb101f150c05" title="Grad" alt="" coords="624,78,677,105"/>
+<area shape="rect" id="node6" href="$namespace_landmark_detector.html#ab3dea1aeca2d3fa222ee6c47e31d93da" title="LandmarkDetector::matchTemplate_m" alt="" coords="515,135,787,162"/>
+<area shape="rect" id="node7" href="$namespace_landmark_detector.html#a6be46e667ef1b9571ad5a2912d283ea0" title="LandmarkDetector::crossCorr_m" alt="" coords="835,135,1067,162"/>
+</map>

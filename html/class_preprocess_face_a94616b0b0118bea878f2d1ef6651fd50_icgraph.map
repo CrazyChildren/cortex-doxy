@@ -1,0 +1,8 @@
+<map id="PreprocessFace::at" name="PreprocessFace::at">
+<area shape="rect" id="node2" href="$class_face_detect_algorithm.html#a2a2ee1334b59a677cbb1ae1d97006ca5" title="FaceDetectAlgorithm\l::showPreprocessFace" alt="" coords="418,5,582,47"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#a441f7a5982ce367b5b40dac8cd34cc4f" title="FisherfacesRecognition::collectFace 将新的人脸图片及其镜像存到preprocess_faces中，并保存对应的id至fac..." alt="" coords="196,64,367,105"/>
+<area shape="rect" id="node7" href="$class_fisherfaces_recognition.html#ae9f8caa7b2359a5b9dac28d37da85a2b" title="FisherfacesRecognition\l::recognition" alt="" coords="196,129,367,171"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="852,39,1011,80"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="415,71,585,112"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="633,68,804,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FaceDetectAlgorithm::showRecentFaces" name="FaceDetectAlgorithm::showRecentFaces">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a6069e77ca4b911295f96b059c86916f0" title="FisherfacesRecognition\l::getPersionId" alt="" coords="212,5,383,47"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="212,71,383,112"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#aa98ba6019ca7c1a37d9fe2ad0a10978d" title="FisherfacesRecognition::getIdentity. " alt="" coords="212,136,383,177"/>
+</map>

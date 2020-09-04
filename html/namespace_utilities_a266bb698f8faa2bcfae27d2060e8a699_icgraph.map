@@ -1,0 +1,20 @@
+<map id="Utilities::ConvertToGrayscale_8bit" name="Utilities::ConvertToGrayscale_8bit">
+<area shape="rect" id="node2" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="296,39,491,80"/>
+<area shape="rect" id="node10" href="$namespace_landmark_detector.html#aabd705e9456f9b93c1426955d13e2343" title="LandmarkDetector::Detect\lLandmarksInImage" alt="" coords="296,104,491,145"/>
+<area shape="rect" id="node11" href="$class_utilities_1_1_image_capture.html#aa6e200b3323a2a56656ca7816ecfb4e4" title="Utilities::ImageCapture\l::GetNextImage" alt="" coords="307,169,480,211"/>
+<area shape="rect" id="node13" href="$class_utilities_1_1_sequence_capture.html#ac24be4c831fdbfd732647ca9411e3c40" title="Utilities::SequenceCapture\l::CaptureThread" alt="" coords="296,235,491,276"/>
+<area shape="rect" id="node18" href="$class_utilities_1_1_sequence_capture.html#a880d2e6a660946226247d7d81c57a054" title="Utilities::SequenceCapture\l::GetNextFrame" alt="" coords="296,300,491,341"/>
+<area shape="rect" id="node3" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="539,5,744,47"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="544,71,739,112"/>
+<area shape="rect" id="node4" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="793,13,986,39"/>
+<area shape="rect" id="node5" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="1053,5,1211,47"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="1277,5,1487,47"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="1535,5,1689,47"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1737,5,1900,47"/>
+<area shape="rect" id="node12" href="$class_utilities_1_1_image_capture.html#a3604d8f1e2b211359b09b59ef89c0cc0" title="Utilities::ImageCapture\l::ImageCapture" alt="" coords="555,136,728,177"/>
+<area shape="rect" id="node14" href="$class_utilities_1_1_sequence_capture.html#ac348feac33841cb0aee7443f12a5c849" title="Utilities::SequenceCapture\l::OpenVideoFile" alt="" coords="544,201,739,243"/>
+<area shape="rect" id="node17" href="$class_utilities_1_1_sequence_capture.html#a57f23f123ef4dc70934a9524c626d3e5" title="Utilities::SequenceCapture\l::OpenImageSequence" alt="" coords="544,267,739,308"/>
+<area shape="rect" id="node15" href="$class_utilities_1_1_sequence_capture.html#a040b41c7945db768933831cba3f678e4" title="Utilities::SequenceCapture\l::SequenceCapture" alt="" coords="1035,235,1229,276"/>
+<area shape="rect" id="node16" href="$class_utilities_1_1_sequence_capture.html#adf872102f68760749f4534fbc4e1506a" title="Utilities::SequenceCapture\l::Open" alt="" coords="792,235,987,276"/>
+<area shape="rect" id="node19" href="$class_utilities_1_1_sequence_capture.html#a59f93e81dfdfe48bdb63d5b692194604" title="Utilities::SequenceCapture\l::IsWebcam" alt="" coords="544,332,739,373"/>
+</map>

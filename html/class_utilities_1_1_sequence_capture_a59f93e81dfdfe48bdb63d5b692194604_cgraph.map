@@ -1,0 +1,7 @@
+<map id="Utilities::SequenceCapture::IsWebcam" name="Utilities::SequenceCapture::IsWebcam">
+<area shape="rect" id="node2" href="$class_utilities_1_1_sequence_capture.html#a880d2e6a660946226247d7d81c57a054" title="Utilities::SequenceCapture\l::GetNextFrame" alt="" coords="248,23,443,65"/>
+<area shape="rect" id="node5" href="$class_utilities_1_1_sequence_capture.html#a081ef48d4300feeff37d684227fb6670" title="Utilities::SequenceCapture\l::GetGrayFrame" alt="" coords="248,89,443,130"/>
+<area shape="rect" id="node6" href="$class_utilities_1_1_sequence_capture.html#a237dfbfa3d37ef1c0ef94ebf2ffc3a55" title="Utilities::SequenceCapture\l::GetProgress" alt="" coords="248,154,443,195"/>
+<area shape="rect" id="node3" href="$class_concurrent_queue.html#a6412cc45f2c19f1090611fbd1930b8e2" title="ConcurrentQueue::pop" alt="" coords="529,5,695,32"/>
+<area shape="rect" id="node4" href="$namespace_utilities.html#a266bb698f8faa2bcfae27d2060e8a699" title="Utilities::ConvertToGrayscale_8bit" alt="" coords="491,56,733,83"/>
+</map>

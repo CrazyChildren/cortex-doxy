@@ -1,0 +1,5 @@
+<map id="HeadTrack::init_track_head" name="HeadTrack::init_track_head">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a23b541ba82c826910eb5132ccb4a56ba" title="RobotSystemControl\l::SlotlKinect2StartSuccess" alt="" coords="252,5,443,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="491,5,645,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="693,5,856,47"/>
+</map>

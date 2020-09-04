@@ -1,0 +1,4 @@
+<map id="HeadTrack::detect_face" name="HeadTrack::detect_face">
+<area shape="rect" id="node2" href="$class_head_track.html#ae59ed95d2b2d0ea4b4397771b65528dd" title="HeadTrack::DetectLandmarks_Dlib" alt="" coords="228,5,475,32"/>
+<area shape="rect" id="node3" href="$class_head_track.html#a87d2a7c95b9b511d4de39d074a1c74f8" title="HeadTrack::createCloud" alt="" coords="263,56,439,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ToolCoordinate::getRxSpeed" name="ToolCoordinate::getRxSpeed">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#aca9c0d2f701d78d4c3a9ffe1a1fb6e95" title="将机械臂当前信息更新至界面,and set the state to visulServo algorithem " alt="" coords="259,5,429,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="477,5,632,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="680,5,843,47"/>
+</map>

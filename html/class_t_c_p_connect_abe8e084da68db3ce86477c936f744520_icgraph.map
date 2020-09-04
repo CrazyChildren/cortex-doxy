@@ -1,0 +1,18 @@
+<map id="TCPConnect::write" name="TCPConnect::write">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="193,159,395,185"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#af4736f390ab857ccdfebbd3514ba8daf" title="move robot to corrosponding pos " alt="" coords="454,337,621,364"/>
+<area shape="rect" id="node11" href="$class_robot_proxy.html#a64c0a6703c48f7fc34ffe86f8cde5eb0" title="seems control robot in speed mode.. " alt="" coords="453,217,622,244"/>
+<area shape="rect" id="node12" href="$class_robot_proxy.html#a1312db320ea863c32ca671dd49f48648" title="move robot to corrosponding joint angle " alt="" coords="451,36,624,63"/>
+<area shape="rect" id="node14" href="$class_robot_proxy.html#ab438a12ab1b9d5849bf043444ba88157" title="enable robot freeMove mode " alt="" coords="455,101,619,128"/>
+<area shape="rect" id="node16" href="$class_robot_proxy.html#a2a6c269cfd546957086ea9ee61970ade" title="disable robot freeMove mode " alt="" coords="443,159,632,185"/>
+<area shape="rect" id="node4" href="$class_visual_servo_algorithm.html#ac304753f8fa8435b1ab684ee324c8861" title="detect face. " alt="" coords="710,217,873,258"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8e9f781c88d5a260f89b30d9dded0336" title="RobotSystemControl\l::slotRobotPosChangebyRobot\lManagement" alt="" coords="683,363,899,419"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a957fdef8e14d64aceaba0b47680e8a43" title="slot of 归位 signal, move robot to init position " alt="" coords="714,443,869,485"/>
+<area shape="rect" id="node9" href="$class_robot_system_control.html#a1f8f1ce16879e9331cd2bbb82597fdf2" title="RobotSystemControl\l::slotRobotPosChangebyVisual\lServo" alt="" coords="682,283,901,339"/>
+<area shape="rect" id="node10" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="951,429,1105,470"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="951,290,1105,331"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1153,397,1316,438"/>
+<area shape="rect" id="node13" href="$class_robot_system_control.html#a20110ab29f51b9076d3184f5a75c8911" title="RobotSystemControl\l::slotRobotJointChangebyRobot\lManagement" alt="" coords="680,5,903,61"/>
+<area shape="rect" id="node15" href="$class_robot_system_control.html#a6713eabdaa5940aabdacfbc152e67808" title="RobotSystemControl\l::slotFreeDrive" alt="" coords="714,86,869,127"/>
+<area shape="rect" id="node17" href="$class_robot_system_control.html#a425fd14755021950407d76d306c48f68" title="RobotSystemControl\l::slotStopFreeDrive" alt="" coords="714,151,869,193"/>
+</map>

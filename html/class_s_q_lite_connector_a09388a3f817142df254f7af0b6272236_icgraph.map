@@ -1,0 +1,21 @@
+<map id="SQLiteConnector::closeDatabase" name="SQLiteConnector::closeDatabase">
+<area shape="rect" id="node2" href="$class_s_q_lite_connector.html#ad36c36eae0e80302d7c2393f0a3453e3" title="SQLiteConnector::~SQLite\lConnector" alt="" coords="288,281,479,323"/>
+<area shape="rect" id="node3" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="295,347,472,374"/>
+<area shape="rect" id="node20" href="$test_8h.html#ad46a13b915ab57343ff66782b33796b8" title="setNewDatabaseTest" alt="" coords="527,499,685,526"/>
+<area shape="rect" id="node4" href="$class_fisher_model_entity.html#aa24edff0f93f5d6163d4de1d45853f9e" title="FisherModelEntity::\lloadModel" alt="" coords="534,92,678,133"/>
+<area shape="rect" id="node12" href="$class_fisher_model_entity.html#a9108c26468883fd17064809f32722a03" title="FisherModelEntity::\lsaveModel" alt="" coords="534,180,678,221"/>
+<area shape="rect" id="node15" href="$test_8h.html#a254bd6e19c70ad6d55a7374b4506ab98" title="queryTest" alt="" coords="563,246,649,273"/>
+<area shape="rect" id="node16" href="$test_8h.html#ab30de67ea5aa64efa031af2f61c1ec54" title="createTableTest" alt="" coords="545,297,667,323"/>
+<area shape="rect" id="node17" href="$test_8h.html#a4ba1621e6cf2f46c1a84dcdfa9f5410e" title="insertDataTest" alt="" coords="548,347,664,374"/>
+<area shape="rect" id="node18" href="$test_8h.html#a735f5f0bbecf9e87582154cf2db96579" title="updateDataTest" alt="" coords="544,398,668,425"/>
+<area shape="rect" id="node19" href="$test_8h.html#ad5a4a0bba3a020ab30300fdc6a5ba028" title="getDataTest" alt="" coords="556,449,656,475"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#a7ffd6b77b6cc9e6e9b77aaa3a3881782" title="FisherfacesRecognition\l::FisherfacesRecognition" alt="" coords="733,5,912,47"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#aed597a2f66a2b1d7ee3165539e1a439e" title="FisherfacesRecognition\l::deleteAll" alt="" coords="737,71,908,112"/>
+<area shape="rect" id="node11" href="$test_8h.html#ad382993c2d8180abbac8e8ea6f631524" title="loadModelTest" alt="" coords="765,137,880,163"/>
+<area shape="rect" id="node7" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="960,129,1131,171"/>
+<area shape="rect" id="node8" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="1179,100,1349,141"/>
+<area shape="rect" id="node9" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="1397,100,1568,141"/>
+<area shape="rect" id="node10" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="1616,100,1775,141"/>
+<area shape="rect" id="node13" href="$class_fisher_model_entity.html#a2f7ec70636e781dffb6a6b109dfe0be4" title="FisherModelEntity::createNewModel. " alt="" coords="751,239,895,280"/>
+<area shape="rect" id="node14" href="$test_8h.html#ae528e634c8fb651ed62910798d1657d5" title="createNewModelTest" alt="" coords="967,246,1124,273"/>
+</map>

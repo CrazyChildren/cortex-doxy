@@ -1,0 +1,7 @@
+<map id="FaceDetectAlgorithm::showDebugData" name="FaceDetectAlgorithm::showDebugData">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#a2466930f9d2bb40eb974e2eff163fcfd" title="PreprocessFace::empty" alt="" coords="220,5,392,32"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#aedfd142d604b9b6f2bc2e5acc2f2b1a9" title="FisherfacesRecognition::showTrainingDebugData &#160;Show the internal face recognition data..." alt="" coords="212,57,400,98"/>
+<area shape="rect" id="node4" href="$_image_utils_8h.html#a512b4cbcfcba10a37f16423de01a576b" title="printMatInfo" alt="" coords="497,5,598,32"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#a8d9f8a98c92fe71196449878eba7bf79" title="FisherfacesRecognition::getImageFrom1DFloatMat. " alt="" coords="448,57,647,98"/>
+<area shape="rect" id="node6" href="$_image_utils_8h.html#a954420eace244bec08128d2c0a50ace6" title="printMat" alt="" coords="509,123,585,149"/>
+</map>

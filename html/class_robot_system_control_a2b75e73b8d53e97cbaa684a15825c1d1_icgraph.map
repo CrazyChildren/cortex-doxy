@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::signalOpenCamera" name="RobotSystemControl::signalOpenCamera">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="476,5,631,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c9e71b7a408d87e443a4ff1958cf525" title="resize the label, open camera and set a timer_detectFace " alt="" coords="208,35,428,76"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="679,5,841,47"/>
+</map>

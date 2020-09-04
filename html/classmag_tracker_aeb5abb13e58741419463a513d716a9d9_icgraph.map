@@ -1,0 +1,5 @@
+<map id="magTracker::getOnePosition" name="magTracker::getOnePosition">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a27ed529107bd3fadc1940bc99f60f719" title="RobotSystemControl\l::slotMagGetPosition" alt="" coords="259,5,415,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="463,5,617,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="665,5,828,47"/>
+</map>

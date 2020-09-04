@@ -1,0 +1,7 @@
+<map id="queryTest" name="queryTest">
+<area shape="rect" id="node2" href="$class_s_q_lite_connector.html#a4efc2c696a814acf05e6505137b9dcf6" title="SQLiteConnector::setDatabase" alt="" coords="158,5,378,32"/>
+<area shape="rect" id="node3" href="$namespace_configuration.html#a6ff7dd7caeb50f1f458eae2841cf4c32" title="Configuration::getSqlDatabaseName. " alt="" coords="139,56,397,83"/>
+<area shape="rect" id="node4" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="179,107,357,133"/>
+<area shape="rect" id="node5" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="447,81,679,108"/>
+<area shape="rect" id="node6" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="445,132,680,159"/>
+</map>

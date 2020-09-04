@@ -1,0 +1,8 @@
+<map id="DeepCameraInterface::frameToMat" name="DeepCameraInterface::frameToMat">
+<area shape="rect" id="node2" href="$class_deep_camera_interface.html#a40e5a90ae35d00534d1611247ee6949a" title="DeepCameraInterface::depthFrameToMeters. " alt="" coords="219,93,384,134"/>
+<area shape="rect" id="node3" href="$class_deep_camera_interface.html#ae565175ae4935ba7a2fe6199100fa519" title="get single frame from frame collection and transform to cv type. " alt="" coords="432,27,624,69"/>
+<area shape="rect" id="node6" href="$class_deep_camera_interface.html#ac54276e7e1b7c2e496c703394f197858" title="DeepCameraInterface\l::alignColorWithDepth" alt="" coords="445,93,611,134"/>
+<area shape="rect" id="node7" href="$class_deep_camera_interface.html#ae35749d960f6d675e54abe12cf68baea" title="DeepCameraInterface\l::depthFrameToColor" alt="" coords="219,27,384,69"/>
+<area shape="rect" id="node4" href="$class_deep_camera_interface.html#aaaed997433ad7c79487110b9977107c6" title="DeepCameraInterface\l::testOpenCamera" alt="" coords="672,27,837,69"/>
+<area shape="rect" id="node5" href="$class_deep_camera_interface.html#add35504784d2f7a1d2288107eeab9d90" title="this is a slot of timer_detectFace timeout, not a open function. it get data from rs2 and emit to pro..." alt="" coords="672,93,837,134"/>
+</map>

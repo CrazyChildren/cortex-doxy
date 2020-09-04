@@ -1,0 +1,10 @@
+<map id="RobotProxy::RobotProxy" name="RobotProxy::RobotProxy">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#a61a469ad20a2000fe0da356177ddd365" title="slot and signal connection function of robotproxy. " alt="" coords="231,111,408,137"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#ac74106ee5e712142865b44e493d0096c" title="a slot of mTimerRobotStateChange timeout interupt, 从机械臂中读取信息，更新机械臂状态, started from connectRobot() " alt="" coords="461,81,680,108"/>
+<area shape="rect" id="node9" href="$class_robot_proxy.html#a6bfdbfa235e29b9165ffdea7f2495a0f" title="RobotProxy::slotChangeConnect\lState" alt="" coords="456,133,685,174"/>
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html#a25bae856cb9baac90dd46d0ce6313afe" title="TCPConnect::bytesAvailable" alt="" coords="733,5,936,32"/>
+<area shape="rect" id="node5" href="$class_t_c_p_connect.html#aec9db19dcc7145f8cdd3a08c8c274328" title="TCPConnect::read" alt="" coords="767,56,903,83"/>
+<area shape="rect" id="node6" href="$class_robot_proxy.html#a93c054f1f5e28223f68cf115f667d31f" title="RobotProxy::_setRobotState" alt="" coords="734,107,935,133"/>
+<area shape="rect" id="node7" href="$class_robot_proxy.html#a9e812325b68eda0bbf9695bb3c5fcd51" title="measure forceSensor data " alt="" coords="739,157,930,184"/>
+<area shape="rect" id="node8" href="$class_opto_d_a_q.html#a17dfec48c6bbfe1e8792453fe940217a" title="OptoDAQ::read6D" alt="" coords="984,157,1121,184"/>
+</map>

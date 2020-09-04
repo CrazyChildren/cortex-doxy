@@ -1,0 +1,6 @@
+<map id="RobotSystemControl::updateDeepCameraDisplayTest" name="RobotSystemControl::updateDeepCameraDisplayTest">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a15a094a61cc564bbbb676924d8e712fe" title="display image in a Qlabel " alt="" coords="288,35,463,76"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#ad25a640dc68d2f2568524fd2b8789bf4" title="resize a cv::mat image " alt="" coords="519,5,674,47"/>
+<area shape="rect" id="node5" href="$class_common.html#afedb72b72fb5f44689d9c8f071b5cd6a" title="Common::Mat2QImage" alt="" coords="511,71,683,98"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#ac4cfd86588355e234074aa9c11b74f95" title="get a rect from width and height, don&#39;t know why todo this, should use cv default method..." alt="" coords="731,5,885,47"/>
+</map>

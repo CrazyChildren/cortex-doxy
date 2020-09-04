@@ -1,0 +1,6 @@
+<map id="mapRotatedImagePoint" name="mapRotatedImagePoint">
+<area shape="rect" id="node2" href="$_image_utils__0_87_8cpp.html#a8b339c1ee055e4bb597facdca87fa2dd" title="scalePointF" alt="" coords="237,5,333,32"/>
+<area shape="rect" id="node3" href="$_image_utils__0_87_8cpp.html#aa556e96a0166fda3abbfb7a3abff48f6" title="subtractPointF" alt="" coords="228,56,343,83"/>
+<area shape="rect" id="node4" href="$_image_utils__0_87_8cpp.html#a6ffabb9779799c3b41af29bb58ac8e9a" title="rotatePointF" alt="" coords="235,107,336,133"/>
+<area shape="rect" id="node5" href="$_image_utils__0_87_8cpp.html#a9271a93dd613180f6fd8ce77bb639494" title="addPointF" alt="" coords="242,157,329,184"/>
+</map>

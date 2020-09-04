@@ -1,0 +1,6 @@
+<map id="FisherfacesRecognition::reconstructFace" name="FisherfacesRecognition::reconstructFace">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#ae9f8caa7b2359a5b9dac28d37da85a2b" title="FisherfacesRecognition\l::recognition" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="443,5,613,47"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="661,5,832,47"/>
+<area shape="rect" id="node5" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="880,5,1039,47"/>
+</map>

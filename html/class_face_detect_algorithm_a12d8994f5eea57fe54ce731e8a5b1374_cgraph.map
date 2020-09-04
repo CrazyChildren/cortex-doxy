@@ -1,0 +1,4 @@
+<map id="FaceDetectAlgorithm::showFaceMarker" name="FaceDetectAlgorithm::showFaceMarker">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#a2466930f9d2bb40eb974e2eff163fcfd" title="PreprocessFace::empty" alt="" coords="212,5,384,32"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#a933a23a9fe1b84b0a0968d9abb526c0d" title="FaceDetectAlgorithm\l::drawRect" alt="" coords="219,57,377,98"/>
+</map>

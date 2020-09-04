@@ -1,0 +1,14 @@
+<map id="RobotSystemControl::Kinect2_cycle" name="RobotSystemControl::Kinect2_cycle">
+<area shape="rect" id="node2" href="$class_head_track.html#a093f0ab0702a4ffeaed99f8fe9a121db" title="HeadTrack::detect_face" alt="" coords="208,56,383,83"/>
+<area shape="rect" id="node5" href="$class_head_track.html#a7f68782c05c879861c417279e223d435" title="HeadTrack::track_head" alt="" coords="210,119,381,145"/>
+<area shape="rect" id="node7" href="$class_robot_proxy.html#af4736f390ab857ccdfebbd3514ba8daf" title="move robot to corrosponding pos " alt="" coords="212,171,379,197"/>
+<area shape="rect" id="node10" href="$class_robot_system_control.html#a15a094a61cc564bbbb676924d8e712fe" title="display image in a Qlabel " alt="" coords="208,225,383,266"/>
+<area shape="rect" id="node3" href="$class_head_track.html#ae59ed95d2b2d0ea4b4397771b65528dd" title="HeadTrack::DetectLandmarks_Dlib" alt="" coords="431,5,677,32"/>
+<area shape="rect" id="node4" href="$class_head_track.html#a87d2a7c95b9b511d4de39d074a1c74f8" title="HeadTrack::createCloud" alt="" coords="466,56,642,83"/>
+<area shape="rect" id="node6" href="$class_head_track.html#a762c204a282d4fd3ea844e7543f9e541" title="HeadTrack::get_Head\l_Coordinate" alt="" coords="474,107,634,149"/>
+<area shape="rect" id="node8" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="453,173,655,200"/>
+<area shape="rect" id="node9" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="733,173,873,200"/>
+<area shape="rect" id="node11" href="$class_robot_system_control.html#ad25a640dc68d2f2568524fd2b8789bf4" title="resize a cv::mat image " alt="" coords="477,225,631,266"/>
+<area shape="rect" id="node13" href="$class_common.html#afedb72b72fb5f44689d9c8f071b5cd6a" title="Common::Mat2QImage" alt="" coords="468,291,640,317"/>
+<area shape="rect" id="node12" href="$class_robot_system_control.html#ac4cfd86588355e234074aa9c11b74f95" title="get a rect from width and height, don&#39;t know why todo this, should use cv default method..." alt="" coords="725,225,880,266"/>
+</map>

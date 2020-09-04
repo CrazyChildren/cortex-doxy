@@ -1,0 +1,4 @@
+<map id="VisualServoAlgorithm::slotCloseForceSensor" name="VisualServoAlgorithm::slotCloseForceSensor">
+<area shape="rect" id="node2" href="$ftusb_8cpp.html#aebe98d6927c678b5f9aa8a156a75c109" title="close_sensor" alt="" coords="223,13,329,39"/>
+<area shape="rect" id="node3" href="$class_opto_d_a_q.html#aab564d0a43cbfcb3ad69e66e59d1f6eb" title="OptoDAQ::close" alt="" coords="377,13,501,39"/>
+</map>

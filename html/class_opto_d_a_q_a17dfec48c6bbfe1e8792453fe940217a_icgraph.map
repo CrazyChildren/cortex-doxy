@@ -1,0 +1,10 @@
+<map id="OptoDAQ::read6D" name="OptoDAQ::read6D">
+<area shape="rect" id="node2" href="$ftusb_8h.html#a7b8ff57e555872b432b085a4a9e6d201" title="read data from forceSensor " alt="" coords="227,78,345,105"/>
+<area shape="rect" id="node6" href="$class_robot_proxy.html#a9e812325b68eda0bbf9695bb3c5fcd51" title="measure forceSensor data " alt="" coords="191,133,381,159"/>
+<area shape="rect" id="node3" href="$class_visual_servo_algorithm.html#a015a8e65e2cd015fdba54eacd906b7f0" title="slot of RobotManagement::signalOpenForceSensor, which was emited when open forceSensor button clicked..." alt="" coords="455,5,622,47"/>
+<area shape="rect" id="node4" href="$class_visual_servo_algorithm.html#a581feacfae37663fee336ab09d42c8e1" title="VisualServoAlgorithm\l::getForceError" alt="" coords="457,71,620,112"/>
+<area shape="rect" id="node5" href="$class_visual_servo_algorithm.html#ac304753f8fa8435b1ab684ee324c8861" title="detect face. " alt="" coords="703,71,866,112"/>
+<area shape="rect" id="node7" href="$class_robot_proxy.html#ac74106ee5e712142865b44e493d0096c" title="a slot of mTimerRobotStateChange timeout interupt, 从机械臂中读取信息，更新机械臂状态, started from connectRobot() " alt="" coords="429,137,648,163"/>
+<area shape="rect" id="node8" href="$class_robot_proxy.html#a61a469ad20a2000fe0da356177ddd365" title="slot and signal connection function of robotproxy. " alt="" coords="696,137,873,163"/>
+<area shape="rect" id="node9" href="$class_robot_proxy.html#aa08d0614661d7ec99c74169df2da2189" title="RobotProxy::RobotProxy" alt="" coords="921,137,1099,163"/>
+</map>

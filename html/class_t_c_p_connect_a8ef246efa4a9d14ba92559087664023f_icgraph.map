@@ -1,0 +1,5 @@
+<map id="TCPConnect::close" name="TCPConnect::close">
+<area shape="rect" id="node2" href="$class_t_c_p_connect.html#a102600aabfd7a051386af9a1d585fe16" title="connect to host using tcp " alt="" coords="195,5,397,32"/>
+<area shape="rect" id="node4" href="$class_robot_proxy.html#aff1ab5768189322b85c4d2213fd425d8" title="RobotProxy::stop" alt="" coords="231,56,361,83"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#aca8163688e7faea4a8e078d3ed91c153" title="a slot, trigered when robot_connect button clicked " alt="" coords="445,5,636,32"/>
+</map>

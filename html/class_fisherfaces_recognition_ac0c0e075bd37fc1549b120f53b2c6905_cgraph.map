@@ -1,0 +1,26 @@
+<map id="FisherfacesRecognition::recognizeAndTrain" name="FisherfacesRecognition::recognizeAndTrain">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#aaa7ad40fe05d4b53af0892ce39f0d536" title="PreprocessFace::getPreprocessedFace" alt="" coords="224,71,491,98"/>
+<area shape="rect" id="node7" href="$class_preprocess_face.html#ae79ed9d80f99bf1e2b5d637e841b0b59" title="PreprocessFace::getFaceRect" alt="" coords="253,254,461,281"/>
+<area shape="rect" id="node8" href="$class_preprocess_face.html#a85373499bd3a9ea4883b9dfd648d5821" title="PreprocessFace::getEyesPoint" alt="" coords="250,305,465,331"/>
+<area shape="rect" id="node9" href="$class_fisherfaces_recognition.html#a441f7a5982ce367b5b40dac8cd34cc4f" title="FisherfacesRecognition::collectFace 将新的人脸图片及其镜像存到preprocess_faces中，并保存对应的id至fac..." alt="" coords="272,356,443,397"/>
+<area shape="rect" id="node12" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="272,188,443,229"/>
+<area shape="rect" id="node20" href="$class_fisherfaces_recognition.html#aed597a2f66a2b1d7ee3165539e1a439e" title="FisherfacesRecognition\l::deleteAll" alt="" coords="573,123,743,164"/>
+<area shape="rect" id="node24" href="$class_fisherfaces_recognition.html#ae9f8caa7b2359a5b9dac28d37da85a2b" title="FisherfacesRecognition\l::recognition" alt="" coords="272,421,443,463"/>
+<area shape="rect" id="node3" href="$class_preprocess_face.html#ac58fe879a5ecaf39e9217134470ac1d4" title="PreprocessFace::clear" alt="" coords="829,71,992,98"/>
+<area shape="rect" id="node4" href="$class_preprocess_face.html#abf481d4cd50c13653bdbe3cb27d21efa" title="PreprocessFace::getPreprocessed\lLargestFace" alt="" coords="539,5,777,47"/>
+<area shape="rect" id="node5" href="$class_detect_object_algorithm.html#ab4ded486bad99a14285692d1d5f2afb1" title="detectLargestObject 识别图片中的一个物体，例如最大的脸，将结果储存到‘argestObject’中， 可以用Haar c..." alt="" coords="825,5,996,47"/>
+<area shape="rect" id="node6" href="$class_detect_object_algorithm.html#ad499d4ed7e0c89676816c9dcf0a763c2" title="DetectObjectAlgorithm\l::detectObjectsCustom" alt="" coords="1047,5,1218,47"/>
+<area shape="rect" id="node10" href="$class_preprocess_face.html#a94616b0b0118bea878f2d1ef6651fd50" title="PreprocessFace::at" alt="" coords="587,421,729,447"/>
+<area shape="rect" id="node11" href="$class_common.html#a853df4cfc36cff3eb3843437b30628fd" title="Common::getSimilarity 比较两图片的差异 " alt="" coords="571,370,745,397"/>
+<area shape="rect" id="node13" href="$class_fisherfaces_recognition.html#a86cf146c4ad0baca1d4cfccb52bf238a" title="FisherfacesRecognition\l::learnCollectedFaces" alt="" coords="573,253,743,295"/>
+<area shape="rect" id="node14" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="573,188,743,229"/>
+<area shape="rect" id="node15" href="$class_fisher_model_entity.html#a9108c26468883fd17064809f32722a03" title="FisherModelEntity::\lsaveModel" alt="" coords="839,253,983,295"/>
+<area shape="rect" id="node16" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="1044,186,1221,213"/>
+<area shape="rect" id="node19" href="$namespace_configuration.html#a1617790e3569768cbc1518ad63deeb0e" title="Configuration::getFisher\lModelName" alt="" coords="1045,248,1221,289"/>
+<area shape="rect" id="node17" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="1271,161,1503,187"/>
+<area shape="rect" id="node18" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="1269,211,1504,238"/>
+<area shape="rect" id="node21" href="$class_fisher_model_entity.html#aa24edff0f93f5d6163d4de1d45853f9e" title="FisherModelEntity::\lloadModel" alt="" coords="839,123,983,164"/>
+<area shape="rect" id="node23" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="825,188,996,229"/>
+<area shape="rect" id="node22" href="$class_s_q_lite_connector.html#a6cb50f9a9c8204ece4b0ed60ab8f6fc1" title="SQLiteConnector::next" alt="" coords="1049,130,1216,157"/>
+<area shape="rect" id="node25" href="$class_fisherfaces_recognition.html#a247888c82d8c7423ffb9e848c56e20f7" title="FisherfacesRecognition\l::reconstructFace" alt="" coords="573,472,743,513"/>
+</map>

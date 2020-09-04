@@ -1,0 +1,51 @@
+<map id="RobotSystemControl::RobotSystemControl" name="RobotSystemControl::RobotSystemControl">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a9d542de9a9a9141ffb7ef80df74dfaca" title="init function, to init camera display state to STATE_NONE " alt="" coords="256,5,411,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a0ee2afc10b44578c8d7c18f76aeaf3f5" title="init function, to init windows display " alt="" coords="256,580,411,621"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a7488657209929b4463f7909be9bb0717" title="switch current window to des windos " alt="" coords="815,93,970,135"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="256,1103,411,1144"/>
+<area shape="rect" id="node47" href="$class_robot_system_control.html#af8bdb8aafb3ddcc921e6e04f69a5e492" title="init function, moving some window classes to corrsponding thread " alt="" coords="256,1168,411,1209"/>
+<area shape="rect" id="node48" href="$class_robot_system_control.html#a4e9e479b2a057e57009e4acadbb4c962" title="display deepCamera image in qlabel " alt="" coords="216,2060,451,2101"/>
+<area shape="rect" id="node49" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="539,2129,693,2171"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#ad4374a70450f6cb4c19df66c806f6214" title="MainWin::changeWinSlot guid_win上所有按钮的信号槽，用于切换到其他界面 " alt="" coords="539,123,693,164"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#abc9178cb4d20c79682126cbcd88f9f3f" title="RobotSystemControl\l::FaceDetectSlot" alt="" coords="539,449,693,491"/>
+<area shape="rect" id="node9" href="$class_robot_system_control.html#ace839874f6efd49f104fc6d3ad468762" title="RobotSystemControl\l::FaceRecognitionSlot" alt="" coords="536,711,696,752"/>
+<area shape="rect" id="node11" href="$class_robot_system_control.html#a07204d75d2d318d8c398759283420ee3" title="RobotSystemControl\l::CollectTrainFaceSlot" alt="" coords="536,515,696,556"/>
+<area shape="rect" id="node12" href="$class_robot_system_control.html#a1874e100d1646c97bbb0f634e5503ead" title="RobotSystemControl\l::AddTrainPersonFaceSlot" alt="" coords="524,776,708,817"/>
+<area shape="rect" id="node14" href="$class_robot_system_control.html#aa2b5209818e5b908ba01375a5a5b9e09" title="RobotSystemControl\l::TrainFaceModelSlot" alt="" coords="539,580,693,621"/>
+<area shape="rect" id="node15" href="$class_robot_system_control.html#aa6b9c508a6c4b2ad654e5a2cb6311249" title="RobotSystemControl\l::ClearDetectDataSlot" alt="" coords="535,645,697,687"/>
+<area shape="rect" id="node16" href="$class_robot_system_control.html#a8c9e71b7a408d87e443a4ff1958cf525" title="resize the label, open camera and set a timer_detectFace " alt="" coords="506,972,726,1013"/>
+<area shape="rect" id="node18" href="$class_robot_system_control.html#a45905ea01c225da4d3697731a3a85769" title="chagne the display_state to STATE_FACE_LANDMARK " alt="" coords="539,907,693,948"/>
+<area shape="rect" id="node19" href="$class_robot_system_control.html#ab0eb897aa3a1cdf3f9a246484ffcbed8" title="RobotSystemControl\l::get_weizi_Slot" alt="" coords="539,841,693,883"/>
+<area shape="rect" id="node23" href="$class_robot_system_control.html#a957fdef8e14d64aceaba0b47680e8a43" title="slot of 归位 signal, move robot to init position " alt="" coords="539,1525,693,1567"/>
+<area shape="rect" id="node25" href="$class_robot_system_control.html#ac447f8b14d422e3ba4f8379cbe36078e" title="RobotSystemControl\l::slotBtnB1" alt="" coords="539,1103,693,1144"/>
+<area shape="rect" id="node26" href="$class_robot_system_control.html#a8e9f781c88d5a260f89b30d9dded0336" title="RobotSystemControl\l::slotRobotPosChangebyRobot\lManagement" alt="" coords="508,1591,724,1647"/>
+<area shape="rect" id="node27" href="$class_robot_system_control.html#a20110ab29f51b9076d3184f5a75c8911" title="RobotSystemControl\l::slotRobotJointChangebyRobot\lManagement" alt="" coords="505,1249,727,1305"/>
+<area shape="rect" id="node28" href="$class_robot_system_control.html#ab5f5dfcbf1259a2dbcce36562aed4194" title="RobotSystemControl\l::slotCopyCurrentValue" alt="" coords="531,1329,701,1371"/>
+<area shape="rect" id="node29" href="$class_robot_system_control.html#a6713eabdaa5940aabdacfbc152e67808" title="RobotSystemControl\l::slotFreeDrive" alt="" coords="539,1395,693,1436"/>
+<area shape="rect" id="node30" href="$class_robot_system_control.html#a425fd14755021950407d76d306c48f68" title="RobotSystemControl\l::slotStopFreeDrive" alt="" coords="539,1460,693,1501"/>
+<area shape="rect" id="node31" href="$class_robot_system_control.html#a003a20f8343c6bcf07b3cd2633c97222" title="RobotSystemControl::updateCameraDisplaySizeSlot &#160;改变摄像头传出的QImage的大小 " alt="" coords="503,1037,729,1079"/>
+<area shape="rect" id="node32" href="$class_robot_system_control.html#af05e9e56992b3bd4e3be7ff7bd8534cf" title="RobotSystemControl\l::updateCameraDisplaySlot" alt="" coords="516,2195,716,2236"/>
+<area shape="rect" id="node34" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="511,1672,721,1713"/>
+<area shape="rect" id="node35" href="$class_robot_system_control.html#ad2ede35cd735ddef2b5451b03656dd30" title="RobotSystemControl\l::updateDeepCameraDisplaySlot" alt="" coords="499,2260,733,2301"/>
+<area shape="rect" id="node36" href="$class_robot_system_control.html#a23b541ba82c826910eb5132ccb4a56ba" title="RobotSystemControl\l::SlotlKinect2StartSuccess" alt="" coords="521,1737,711,1779"/>
+<area shape="rect" id="node37" href="$class_robot_system_control.html#aca9c0d2f701d78d4c3a9ffe1a1fb6e95" title="将机械臂当前信息更新至界面,and set the state to visulServo algorithem " alt="" coords="531,1803,701,1844"/>
+<area shape="rect" id="node38" href="$class_robot_system_control.html#a01003c7c88f1587769585d37b17c8bf7" title="update the tcp state, and just modify the windows gui " alt="" coords="539,1868,693,1909"/>
+<area shape="rect" id="node39" href="$class_robot_system_control.html#a36e1991c41def8c7a3b4fd283fa7d2b8" title="RobotSystemControl\l::finishTrainModelSlot" alt="" coords="536,1933,696,1975"/>
+<area shape="rect" id="node40" href="$class_robot_system_control.html#a1f8f1ce16879e9331cd2bbb82597fdf2" title="RobotSystemControl\l::slotRobotPosChangebyVisual\lServo" alt="" coords="507,1169,725,1225"/>
+<area shape="rect" id="node41" href="$class_robot_system_control.html#a1655b4a0049ca4af2d6e9b58ca3da24f" title="RobotSystemControl\l::forceAdjustModeSlot" alt="" coords="534,1999,698,2040"/>
+<area shape="rect" id="node42" href="$class_robot_system_control.html#a3a19ab2dfd88d1d84ebee219b5b29a77" title="RobotSystemControl\l::trackHeadModeSlot" alt="" coords="537,2064,695,2105"/>
+<area shape="rect" id="node43" href="$class_robot_system_control.html#ab95e26c583151bc1d0130191f105908e" title="RobotSystemControl\l::slotMagInitial" alt="" coords="539,188,693,229"/>
+<area shape="rect" id="node44" href="$class_robot_system_control.html#a27ed529107bd3fadc1940bc99f60f719" title="RobotSystemControl\l::slotMagGetPosition" alt="" coords="538,253,694,295"/>
+<area shape="rect" id="node45" href="$class_robot_system_control.html#ae669304d4fe89dfbc8fab4bdcc412241" title="RobotSystemControl\l::slotMagGetPositionS" alt="" coords="534,319,698,360"/>
+<area shape="rect" id="node46" href="$class_robot_system_control.html#aa20223a99ebfba497f532e396b8c0217" title="RobotSystemControl\l::slotMagClose" alt="" coords="539,384,693,425"/>
+<area shape="rect" id="node8" href="$class_camera_interface.html#a605553b96de622cb73cb4e29a5225b00" title="CameraInterface::openCamera" alt="" coords="781,457,1004,483"/>
+<area shape="rect" id="node10" href="$class_fisherfaces_recognition.html#a8bae057fbaad48cd481f091e321756d6" title="FisherfacesRecognition\l::setFisherMode" alt="" coords="807,613,978,655"/>
+<area shape="rect" id="node13" href="$class_fisherfaces_recognition.html#a90945c389bfa5c2aff7c413a7ac85ca8" title="FisherfacesRecognition\l::addNewTrainPerson" alt="" coords="807,776,978,817"/>
+<area shape="rect" id="node17" href="$class_robot_system_control.html#a407e71749d465874fa57bd941e81445e" title="if display state is STATE_FACE_LANMARK, then set a lable with and height, seems useless.. don&#39;t know why to do this. " alt="" coords="791,1005,994,1047"/>
+<area shape="rect" id="node20" href="$class_head_track.html#ad27111cd9a00e5d716fd7ff166088815" title="HeadTrack::get_end\l_to_base" alt="" coords="817,907,968,948"/>
+<area shape="rect" id="node21" href="$class_head_track.html#a093f0ab0702a4ffeaed99f8fe9a121db" title="HeadTrack::detect_face" alt="" coords="805,1297,980,1323"/>
+<area shape="rect" id="node22" href="$class_head_track.html#a54b0837a89934d0abf19bd2bcc9fa80f" title="HeadTrack::get_illpoint\l_to_head" alt="" coords="807,841,978,883"/>
+<area shape="rect" id="node24" href="$class_robot_proxy.html#af4736f390ab857ccdfebbd3514ba8daf" title="move robot to corrosponding pos " alt="" coords="809,1570,976,1597"/>
+<area shape="rect" id="node33" href="$class_robot_system_control.html#a15a094a61cc564bbbb676924d8e712fe" title="display image in a Qlabel " alt="" coords="805,2227,980,2268"/>
+<area shape="rect" id="node50" href="$class_head_track.html#a7f68782c05c879861c417279e223d435" title="HeadTrack::track_head" alt="" coords="807,2137,978,2163"/>
+</map>

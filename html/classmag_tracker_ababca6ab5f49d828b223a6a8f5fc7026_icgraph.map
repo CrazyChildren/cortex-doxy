@@ -1,0 +1,6 @@
+<map id="magTracker::connect" name="magTracker::connect">
+<area shape="rect" id="node2" href="$classmag_tracker.html#a3d3ee56b0d026c912e77e8d4ffc2db8f" title="magTracker::initialTracker" alt="" coords="211,13,401,39"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#ab95e26c583151bc1d0130191f105908e" title="RobotSystemControl\l::slotMagInitial" alt="" coords="449,5,604,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="652,5,807,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="855,5,1017,47"/>
+</map>

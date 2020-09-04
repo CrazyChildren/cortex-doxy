@@ -1,0 +1,9 @@
+<map id="RobotProxy::movelpos" name="RobotProxy::movelpos">
+<area shape="rect" id="node2" href="$class_visual_servo_algorithm.html#ac304753f8fa8435b1ab684ee324c8861" title="detect face. " alt="" coords="248,5,411,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8e9f781c88d5a260f89b30d9dded0336" title="RobotSystemControl\l::slotRobotPosChangebyRobot\lManagement" alt="" coords="221,71,437,127"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a957fdef8e14d64aceaba0b47680e8a43" title="slot of 归位 signal, move robot to init position " alt="" coords="252,152,407,193"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a1f8f1ce16879e9331cd2bbb82597fdf2" title="RobotSystemControl\l::slotRobotPosChangebyVisual\lServo" alt="" coords="220,218,439,274"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="487,255,641,296"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="487,171,641,212"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="689,223,852,264"/>
+</map>

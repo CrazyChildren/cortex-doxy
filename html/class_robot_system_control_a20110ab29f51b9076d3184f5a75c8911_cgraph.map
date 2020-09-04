@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::slotRobotJointChangebyRobotManagement" name="RobotSystemControl::slotRobotJointChangebyRobotManagement">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#a1312db320ea863c32ca671dd49f48648" title="move robot to corrosponding joint angle " alt="" coords="276,20,449,47"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="497,20,699,47"/>
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="747,20,887,47"/>
+</map>

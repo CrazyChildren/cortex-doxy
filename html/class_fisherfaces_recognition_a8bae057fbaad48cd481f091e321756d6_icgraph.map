@@ -1,0 +1,8 @@
+<map id="FisherfacesRecognition::setFisherMode" name="FisherfacesRecognition::setFisherMode">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#aa6b9c508a6c4b2ad654e5a2cb6311249" title="RobotSystemControl\l::ClearDetectDataSlot" alt="" coords="224,5,387,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#aa2b5209818e5b908ba01375a5a5b9e09" title="RobotSystemControl\l::TrainFaceModelSlot" alt="" coords="228,71,383,112"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a07204d75d2d318d8c398759283420ee3" title="RobotSystemControl\l::CollectTrainFaceSlot" alt="" coords="225,136,385,177"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#ace839874f6efd49f104fc6d3ad468762" title="RobotSystemControl\l::FaceRecognitionSlot" alt="" coords="225,201,385,243"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="435,104,589,145"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="637,104,800,145"/>
+</map>

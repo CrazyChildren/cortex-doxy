@@ -1,0 +1,5 @@
+<map id="RobotProxy::endFreeMove" name="RobotProxy::endFreeMove">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a425fd14755021950407d76d306c48f68" title="RobotSystemControl\l::slotStopFreeDrive" alt="" coords="243,5,397,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="445,5,600,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="648,5,811,47"/>
+</map>

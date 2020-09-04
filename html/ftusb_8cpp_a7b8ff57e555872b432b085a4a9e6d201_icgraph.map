@@ -1,0 +1,5 @@
+<map id="force_measure" name="force_measure">
+<area shape="rect" id="node2" href="$class_visual_servo_algorithm.html#a015a8e65e2cd015fdba54eacd906b7f0" title="slot of RobotManagement::signalOpenForceSensor, which was emited when open forceSensor button clicked..." alt="" coords="172,5,339,47"/>
+<area shape="rect" id="node3" href="$class_visual_servo_algorithm.html#a581feacfae37663fee336ab09d42c8e1" title="VisualServoAlgorithm\l::getForceError" alt="" coords="174,71,337,112"/>
+<area shape="rect" id="node4" href="$class_visual_servo_algorithm.html#ac304753f8fa8435b1ab684ee324c8861" title="detect face. " alt="" coords="387,71,549,112"/>
+</map>

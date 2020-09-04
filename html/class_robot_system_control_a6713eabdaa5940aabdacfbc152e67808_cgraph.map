@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::slotFreeDrive" name="RobotSystemControl::slotFreeDrive">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#ab438a12ab1b9d5849bf043444ba88157" title="enable robot freeMove mode " alt="" coords="208,13,372,39"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="420,13,621,39"/>
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="669,13,809,39"/>
+</map>

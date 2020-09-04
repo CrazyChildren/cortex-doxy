@@ -1,0 +1,4 @@
+<map id="Utilities::FpsTracker::DiscardOldFrames" name="Utilities::FpsTracker::DiscardOldFrames">
+<area shape="rect" id="node2" href="$class_utilities_1_1_fps_tracker.html#a6a2a5a3c9a462bc6498fd542727f3928" title="Utilities::FpsTracker\l::AddFrame" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_fps_tracker.html#a94611c367b352b99a41bea63264f516d" title="Utilities::FpsTracker\l::GetFPS" alt="" coords="204,71,355,112"/>
+</map>

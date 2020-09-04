@@ -1,0 +1,4 @@
+<map id="RobotSystemControl::updateCameraDisplaySizeSlot" name="RobotSystemControl::updateCameraDisplaySizeSlot">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="280,5,435,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="483,5,645,47"/>
+</map>

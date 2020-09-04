@@ -1,0 +1,8 @@
+<map id="GuidWin::changeWinSignal" name="GuidWin::changeWinSignal">
+<area shape="rect" id="node2" href="$class_guid_win.html#ac8c90b2ded84f86b26338a2cf4c93528" title="GuidWin::on_btnNeuroNavigation\l_clicked" alt="" coords="257,5,495,47"/>
+<area shape="rect" id="node3" href="$class_guid_win.html#ad246a1e56b3b050b39091d79474cb7b8" title="GuidWin::on_btnPatientLogin\l_clicked" alt="" coords="271,71,481,112"/>
+<area shape="rect" id="node4" href="$class_guid_win.html#a507866ac5032697b0aa0370b19398ef8" title="GuidWin::on_btnPatientMedical\lRecord_clicked" alt="" coords="264,136,488,177"/>
+<area shape="rect" id="node5" href="$class_guid_win.html#a7db6617615ce6820f67a3c7b33daefc2" title="GuidWin::on_btnRobotManagement\l_clicked" alt="" coords="251,201,501,243"/>
+<area shape="rect" id="node6" href="$class_guid_win.html#a5a3967133b30f0b13fef19d83ed0e30a" title="GuidWin::on_btnHelp\l_clicked" alt="" coords="297,267,455,308"/>
+<area shape="rect" id="node7" href="$class_guid_win.html#a7b93deb16b51aa75d557de4945e98ca4" title="GuidWin::on_btnAdmin\l_clicked" alt="" coords="291,332,461,373"/>
+</map>

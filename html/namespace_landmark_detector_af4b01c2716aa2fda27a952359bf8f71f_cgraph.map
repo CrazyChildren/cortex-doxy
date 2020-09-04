@@ -1,0 +1,8 @@
+<map id="LandmarkDetector::DetectSingleFaceMTCNN" name="LandmarkDetector::DetectSingleFaceMTCNN">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html#a06a1a19f2ff9d651c56c111b64f49e7f" title="LandmarkDetector::FaceDetector\lMTCNN::DetectFaces" alt="" coords="248,99,484,141"/>
+<area shape="rect" id="node3" href="$_face_detector_m_t_c_n_n_8cpp.html#a1100a1a1e390f755507355296c9eca6c" title="generate_bounding_boxes" alt="" coords="534,5,727,32"/>
+<area shape="rect" id="node4" href="$_face_detector_m_t_c_n_n_8cpp.html#a0b4803ee52903a64f852ea637633fc5e" title="non_maximum_supression" alt="" coords="532,56,729,83"/>
+<area shape="rect" id="node5" href="$_face_detector_m_t_c_n_n_8cpp.html#a8894255f3b2761cf2effcdc03c0aa9dd" title="select_subset" alt="" coords="575,107,686,133"/>
+<area shape="rect" id="node6" href="$_face_detector_m_t_c_n_n_8cpp.html#a4e0d07c3df7db2f284adca9f6373eda1" title="apply_correction" alt="" coords="565,157,696,184"/>
+<area shape="rect" id="node7" href="$_face_detector_m_t_c_n_n_8cpp.html#ad78a2af9858ab82fd65d9e0957d69913" title="rectify" alt="" coords="599,208,663,235"/>
+</map>

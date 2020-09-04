@@ -1,0 +1,5 @@
+<map id="takePicturesTest" name="takePicturesTest">
+<area shape="rect" id="node2" href="$class_common.html#a6d17530adf532d3e23a35f5cf804375b" title="Common::qGetTime" alt="" coords="216,5,369,32"/>
+<area shape="rect" id="node4" href="$class_camera_interface.html#a796eebb0f05781c10b245b2e3d151fbc" title="CameraInterface::takePictures" alt="" coords="183,56,403,83"/>
+<area shape="rect" id="node3" href="$_sequence_capture_8cpp.html#aa46369f3c8adbff876c82270346fffa2" title="currentDateTime" alt="" coords="451,5,583,32"/>
+</map>

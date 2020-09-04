@@ -1,0 +1,11 @@
+<map id="Utilities::SequenceCapture::Open" name="Utilities::SequenceCapture::Open">
+<area shape="rect" id="node2" href="$class_utilities_1_1_sequence_capture.html#a19735574bf3ba8eccfaff87d58485203" title="Utilities::SequenceCapture\l::OpenWebcam" alt="" coords="248,195,443,236"/>
+<area shape="rect" id="node5" href="$class_utilities_1_1_sequence_capture.html#ac348feac33841cb0aee7443f12a5c849" title="Utilities::SequenceCapture\l::OpenVideoFile" alt="" coords="248,129,443,171"/>
+<area shape="rect" id="node10" href="$class_utilities_1_1_sequence_capture.html#a57f23f123ef4dc70934a9524c626d3e5" title="Utilities::SequenceCapture\l::OpenImageSequence" alt="" coords="248,64,443,105"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_sequence_capture.html#adfacebead6a3ff433a42cc4a4b2c4309" title="Utilities::SequenceCapture\l::SetCameraIntrinsics" alt="" coords="491,129,685,171"/>
+<area shape="rect" id="node4" href="$_sequence_capture_8cpp.html#aa46369f3c8adbff876c82270346fffa2" title="currentDateTime" alt="" coords="522,202,654,229"/>
+<area shape="rect" id="node6" href="$class_utilities_1_1_sequence_capture.html#ac24be4c831fdbfd732647ca9411e3c40" title="Utilities::SequenceCapture\l::CaptureThread" alt="" coords="491,64,685,105"/>
+<area shape="rect" id="node7" href="$class_concurrent_queue.html#a241a17101be9bd0eb31c02b2ba0f8cac" title="ConcurrentQueue::set\l_capacity" alt="" coords="773,5,936,47"/>
+<area shape="rect" id="node8" href="$namespace_utilities.html#a266bb698f8faa2bcfae27d2060e8a699" title="Utilities::ConvertToGrayscale_8bit" alt="" coords="733,71,976,98"/>
+<area shape="rect" id="node9" href="$class_concurrent_queue.html#a84613f1f45d45784579bbe866d28b162" title="ConcurrentQueue::push" alt="" coords="767,122,942,149"/>
+</map>

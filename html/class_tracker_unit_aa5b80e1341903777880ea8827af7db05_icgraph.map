@@ -1,0 +1,6 @@
+<map id="TrackerUnit::ReadPP" name="TrackerUnit::ReadPP">
+<area shape="rect" id="node2" href="$classmag_tracker.html#aeb5abb13e58741419463a513d716a9d9" title="magTracker::getOnePosition" alt="" coords="205,13,411,39"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a27ed529107bd3fadc1940bc99f60f719" title="RobotSystemControl\l::slotMagGetPosition" alt="" coords="459,5,615,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="663,5,817,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="865,5,1028,47"/>
+</map>

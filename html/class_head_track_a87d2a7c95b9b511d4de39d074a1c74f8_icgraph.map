@@ -1,0 +1,7 @@
+<map id="HeadTrack::createCloud" name="HeadTrack::createCloud">
+<area shape="rect" id="node2" href="$class_head_track.html#a093f0ab0702a4ffeaed99f8fe9a121db" title="HeadTrack::detect_face" alt="" coords="229,46,404,73"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="655,5,809,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#ab0eb897aa3a1cdf3f9a246484ffcbed8" title="RobotSystemControl\l::get_weizi_Slot" alt="" coords="452,68,607,109"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="857,39,1020,80"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="655,71,809,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="HeadTrack::get_Head_Coordinate" name="HeadTrack::get_Head_Coordinate">
+<area shape="rect" id="node2" href="$class_head_track.html#a7f68782c05c879861c417279e223d435" title="HeadTrack::track_head" alt="" coords="213,17,384,43"/>
+<area shape="rect" id="node5" href="$class_head_track.html#a54b0837a89934d0abf19bd2bcc9fa80f" title="HeadTrack::get_illpoint\l_to_head" alt="" coords="213,68,384,109"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="635,5,789,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="837,39,1000,80"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#ab0eb897aa3a1cdf3f9a246484ffcbed8" title="RobotSystemControl\l::get_weizi_Slot" alt="" coords="432,68,587,109"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="635,71,789,112"/>
+</map>

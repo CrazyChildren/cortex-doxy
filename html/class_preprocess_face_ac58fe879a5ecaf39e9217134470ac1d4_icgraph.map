@@ -1,0 +1,8 @@
+<map id="PreprocessFace::clear" name="PreprocessFace::clear">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#aed597a2f66a2b1d7ee3165539e1a439e" title="FisherfacesRecognition\l::deleteAll" alt="" coords="216,56,387,97"/>
+<area shape="rect" id="node7" href="$class_preprocess_face.html#aaa7ad40fe05d4b53af0892ce39f0d536" title="PreprocessFace::getPreprocessedFace" alt="" coords="435,122,701,149"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="483,5,653,47"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="749,64,920,105"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="968,64,1139,105"/>
+<area shape="rect" id="node6" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="1187,64,1345,105"/>
+</map>

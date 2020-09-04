@@ -1,0 +1,4 @@
+<map id="RobotProxy::connectRobot" name="RobotProxy::connectRobot">
+<area shape="rect" id="node2" href="$class_t_c_p_connect.html#a102600aabfd7a051386af9a1d585fe16" title="connect to host using tcp " alt="" coords="244,5,447,32"/>
+<area shape="rect" id="node3" href="$class_t_c_p_connect.html#a8ef246efa4a9d14ba92559087664023f" title="TCPConnect::close" alt="" coords="495,5,636,32"/>
+</map>

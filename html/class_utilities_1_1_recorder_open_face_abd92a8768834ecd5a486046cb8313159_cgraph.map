@@ -1,0 +1,9 @@
+<map id="Utilities::RecorderOpenFace::WriteObservationTracked" name="Utilities::RecorderOpenFace::WriteObservationTracked">
+<area shape="rect" id="node2" href="$class_utilities_1_1_recorder_open_face_parameters.html#adf2fb07fce32f2e7cef4b90417f9e6c3" title="Utilities::RecorderOpenFace\lParameters::outputTracked" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$class_concurrent_queue.html#a241a17101be9bd0eb31c02b2ba0f8cac" title="ConcurrentQueue::set\l_capacity" alt="" coords="274,71,437,112"/>
+<area shape="rect" id="node4" href="$class_utilities_1_1_recorder_open_face_parameters.html#abc7ddf236113bcc58b67132eea75bb21" title="Utilities::RecorderOpenFace\lParameters::isSequence" alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node5" href="$class_utilities_1_1_recorder_open_face_parameters.html#a9655df212ba8c534376ec61e7df15b6e" title="Utilities::RecorderOpenFace\lParameters::outputCodec" alt="" coords="255,201,456,243"/>
+<area shape="rect" id="node6" href="$class_utilities_1_1_recorder_open_face_parameters.html#a44cf74568312589e775b2d36555f344f" title="Utilities::RecorderOpenFace\lParameters::outputFps" alt="" coords="255,267,456,308"/>
+<area shape="rect" id="node7" href="$class_utilities_1_1_recorder_open_face.html#aadbf8aa92cdb7c6b74f6be7a3deda958" title="Utilities::RecorderOpenFace\l::VideoWritingTask" alt="" coords="255,332,456,373"/>
+<area shape="rect" id="node8" href="$class_concurrent_queue.html#a84613f1f45d45784579bbe866d28b162" title="ConcurrentQueue::push" alt="" coords="268,398,443,425"/>
+</map>

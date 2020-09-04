@@ -1,0 +1,8 @@
+<map id="RobotSystemControl::AddTrainPersonFaceSlot" name="RobotSystemControl::AddTrainPersonFaceSlot">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a90945c389bfa5c2aff7c413a7ac85ca8" title="FisherfacesRecognition\l::addNewTrainPerson" alt="" coords="237,136,408,177"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="456,5,627,47"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#a2c8453e74e29ab69bd16fb8a36a5a41a" title="FisherfacesRecognition\l::getCollectionNum" alt="" coords="456,71,627,112"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#afe36642529e1b387e4ce106e3e76bf05" title="FisherfacesRecognition\l::setCollectionNum" alt="" coords="456,136,627,177"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#a0c97c8e11b165d2847d6a7f4f417f609" title="FisherfacesRecognition\l::setNumPersons" alt="" coords="456,201,627,243"/>
+<area shape="rect" id="node7" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="456,267,627,308"/>
+</map>

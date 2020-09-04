@@ -1,0 +1,10 @@
+<map id="RobotProxy::movelpos" name="RobotProxy::movelpos">
+<area shape="rect" id="node2" href="$class_tool_coordinate.html#a5aa2e78d459d038096e20631386faed1" title="ToolCoordinate::getX" alt="" coords="242,5,399,32"/>
+<area shape="rect" id="node3" href="$class_tool_coordinate.html#a87ddc05c6b3dd05f7fafb570cd3fe5ca" title="ToolCoordinate::getY" alt="" coords="243,56,399,83"/>
+<area shape="rect" id="node4" href="$class_tool_coordinate.html#a10b8e2ca9205aa662ad4b65b12ed0980" title="ToolCoordinate::getZ" alt="" coords="242,107,399,133"/>
+<area shape="rect" id="node5" href="$class_tool_coordinate.html#adf538ebec467597d869554e4d340b537" title="ToolCoordinate::getRx" alt="" coords="238,157,403,184"/>
+<area shape="rect" id="node6" href="$class_tool_coordinate.html#ae34afc9f63ed54e7306bd67da9fecdd1" title="ToolCoordinate::getRy" alt="" coords="239,208,403,235"/>
+<area shape="rect" id="node7" href="$class_tool_coordinate.html#ab4b53ca6f5edd8c46278396d7d8f670f" title="ToolCoordinate::getRz" alt="" coords="239,259,403,285"/>
+<area shape="rect" id="node8" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="220,309,421,336"/>
+<area shape="rect" id="node9" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="469,309,609,336"/>
+</map>

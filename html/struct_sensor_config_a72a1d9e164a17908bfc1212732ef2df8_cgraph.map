@@ -1,0 +1,10 @@
+<map id="SensorConfig::to_uin8_t" name="SensorConfig::to_uin8_t">
+<area shape="rect" id="node2" href="$struct_sensor_config.html#a05434f5c1529980e60acd47c1129e048" title="SensorConfig::to_uin8_t" alt="" coords="229,5,403,32"/>
+<area shape="rect" id="node3" href="$struct_sensor_config.html#af3a7554471e2543b5febd78280706478" title="SensorConfig::getState" alt="" coords="231,56,401,83"/>
+<area shape="rect" id="node4" href="$struct_sensor_config.html#a37746124da2f6fd46c941c8ea07be6c4" title="SensorConfig::getSpeed" alt="" coords="228,107,404,133"/>
+<area shape="rect" id="node5" href="$struct_sensor_config.html#aeb1f860ffb4d699508193cc97f96aed1" title="SensorConfig::getFilter" alt="" coords="232,157,400,184"/>
+<area shape="rect" id="node6" href="$struct_sensor_config.html#ac33181a9862b1e65f7428964ba777fad" title="SensorConfig::getMode" alt="" coords="231,208,401,235"/>
+<area shape="rect" id="node7" href="$struct_sensor_config.html#a431495229a7c70a2a75cec531bb13b4d" title="SensorConfig::setSpeed" alt="" coords="229,259,403,285"/>
+<area shape="rect" id="node8" href="$struct_sensor_config.html#ac021089639bcd3225fa7b539e8088af8" title="SensorConfig::setFilter" alt="" coords="233,309,399,336"/>
+<area shape="rect" id="node9" href="$struct_sensor_config.html#a1788fa0360ac93ab32dcab2c23329d03" title="SensorConfig::setMode" alt="" coords="231,360,401,387"/>
+</map>

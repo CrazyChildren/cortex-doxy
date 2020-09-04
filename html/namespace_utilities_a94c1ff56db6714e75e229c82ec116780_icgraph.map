@@ -1,0 +1,22 @@
+<map id="Utilities::RotationMatrix2AxisAngle" name="Utilities::RotationMatrix2AxisAngle">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_p_d_m.html#a9a59eb2db4059cd3ed03c64707095637" title="LandmarkDetector::PDM\l::UpdateModelParameters" alt="" coords="237,177,428,219"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_p_d_m.html#a0ac1242f0e3ab33c2cf8adfd50004d52" title="LandmarkDetector::PDM\l::NumberOfModes" alt="" coords="476,177,656,219"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_c_l_n_f.html#ace27fe53522e79476000b7f8f5b02cbf" title="LandmarkDetector::CLNF\l::NU_RLMS" alt="" coords="936,119,1120,160"/>
+<area shape="rect" id="node21" href="$class_landmark_detector_1_1_p_d_m.html#a4f32a052405a3e5471c118404ee1ed00" title="LandmarkDetector::PDM\l::CalcParams" alt="" coords="938,233,1118,275"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_c_l_n_f.html#a37f38c2112f75654bebf04838c3e53f8" title="LandmarkDetector::CLNF\l::Read" alt="" coords="704,295,888,336"/>
+<area shape="rect" id="node20" href="$class_landmark_detector_1_1_p_d_m.html#a44ff89b30c18a872fe22f70edfbe1229" title="LandmarkDetector::PDM\l::ComputeJacobian" alt="" coords="706,177,886,219"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_c_l_n_f.html#aba0d5428539b5048ba167359f2f576af" title="LandmarkDetector::CLNF\l::CLNF" alt="" coords="936,299,1120,340"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_c_l_n_f.html#a65173972b8c071803913e62ed2a25400" title="LandmarkDetector::CLNF::Fit" alt="" coords="1168,126,1375,153"/>
+<area shape="rect" id="node8" href="$class_landmark_detector_1_1_c_l_n_f.html#ab54761b9ff2673456191eeecdcb291ce" title="LandmarkDetector::CLNF\l::DetectLandmarks" alt="" coords="1423,119,1607,160"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="1669,53,1863,95"/>
+<area shape="rect" id="node17" href="$_landmark_detector_func_8cpp.html#aafa61def67b62aedfdc84bd521e59a9a" title="DetectLandmarksInImageMulti\lHypBasic" alt="" coords="1655,184,1877,225"/>
+<area shape="rect" id="node19" href="$_landmark_detector_func_8cpp.html#abc4c53f4164ba4aa70922b3e5730c877" title="DetectLandmarksInImageMulti\lHypEarlyTerm" alt="" coords="1655,119,1877,160"/>
+<area shape="rect" id="node10" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="1925,71,2131,112"/>
+<area shape="rect" id="node16" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="1931,5,2125,47"/>
+<area shape="rect" id="node11" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="2179,78,2372,105"/>
+<area shape="rect" id="node12" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="2420,71,2579,112"/>
+<area shape="rect" id="node13" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="2627,71,2836,112"/>
+<area shape="rect" id="node14" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="2884,71,3039,112"/>
+<area shape="rect" id="node15" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="3087,71,3249,112"/>
+<area shape="rect" id="node18" href="$namespace_landmark_detector.html#aabd705e9456f9b93c1426955d13e2343" title="LandmarkDetector::Detect\lLandmarksInImage" alt="" coords="1931,152,2125,193"/>
+</map>

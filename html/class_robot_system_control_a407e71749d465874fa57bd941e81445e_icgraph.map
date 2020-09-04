@@ -1,0 +1,7 @@
+<map id="RobotSystemControl::updateCameraDisplaySize" name="RobotSystemControl::updateCameraDisplaySize">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a8fca5e966f057f80f3627f77bfe9f9ba" title="RobotSystemControl\l::OpenCameraSlot" alt="" coords="292,5,447,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c9e71b7a408d87e443a4ff1958cf525" title="resize the label, open camera and set a timer_detectFace " alt="" coords="259,71,479,112"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a003a20f8343c6bcf07b3cd2633c97222" title="RobotSystemControl::updateCameraDisplaySizeSlot &#160;改变摄像头传出的QImage的大小 " alt="" coords="256,136,483,177"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="531,104,685,145"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="733,104,896,145"/>
+</map>

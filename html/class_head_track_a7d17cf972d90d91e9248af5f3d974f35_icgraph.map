@@ -1,0 +1,7 @@
+<map id="HeadTrack::init_Dlib" name="HeadTrack::init_Dlib">
+<area shape="rect" id="node2" href="$class_head_track.html#a7609f6933c308441acf632279ea6f361" title="HeadTrack::HeadTrack" alt="" coords="221,5,388,32"/>
+<area shape="rect" id="node3" href="$class_head_track.html#a54cf59118ac0842a6f1d2268f84c0821" title="HeadTrack::init_track_head" alt="" coords="205,56,404,83"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a23b541ba82c826910eb5132ccb4a56ba" title="RobotSystemControl\l::SlotlKinect2StartSuccess" alt="" coords="452,49,643,90"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="691,49,845,90"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="893,49,1056,90"/>
+</map>

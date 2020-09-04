@@ -1,0 +1,5 @@
+<map id="RobotProxy::moveljoint" name="RobotProxy::moveljoint">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a20110ab29f51b9076d3184f5a75c8911" title="RobotSystemControl\l::slotRobotJointChangebyRobot\lManagement" alt="" coords="227,5,449,61"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="497,13,652,54"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="700,13,863,54"/>
+</map>

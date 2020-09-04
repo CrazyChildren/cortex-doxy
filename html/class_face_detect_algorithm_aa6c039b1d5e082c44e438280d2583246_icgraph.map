@@ -1,0 +1,6 @@
+<map id="FaceDetectAlgorithm::showLandMarkPoint" name="FaceDetectAlgorithm::showLandMarkPoint">
+<area shape="rect" id="node2" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="213,5,372,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="420,5,629,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="677,5,832,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="880,5,1043,47"/>
+</map>

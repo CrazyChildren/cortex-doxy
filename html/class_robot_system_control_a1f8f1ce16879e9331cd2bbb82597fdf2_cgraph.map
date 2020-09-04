@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::slotRobotPosChangebyVisualServo" name="RobotSystemControl::slotRobotPosChangebyVisualServo">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#af4736f390ab857ccdfebbd3514ba8daf" title="move robot to corrosponding pos " alt="" coords="272,20,439,47"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="487,20,688,47"/>
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="736,20,876,47"/>
+</map>

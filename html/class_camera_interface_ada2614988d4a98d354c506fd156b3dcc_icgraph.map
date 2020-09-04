@@ -1,0 +1,6 @@
+<map id="CameraInterface::gotCvFrameSignal" name="CameraInterface::gotCvFrameSignal">
+<area shape="rect" id="node2" href="$class_camera_interface.html#aa2e093c11fec884b930d3c1c10c62b21" title="CameraInterface::slotOpen\lCamera" alt="" coords="287,5,485,47"/>
+<area shape="rect" id="node3" href="$class_camera_interface.html#adf4321dca2b99638a8df9f5aa7d8e4f4" title="CameraInterface::timerImgGrab" alt="" coords="271,71,501,98"/>
+<area shape="rect" id="node4" href="$class_camera_interface.html#a9172d97727779a3f39bfd3c8a810e1d4" title="CameraInterface::_init" alt="" coords="549,71,716,98"/>
+<area shape="rect" id="node5" href="$class_camera_interface.html#ab92ba9049bab113fbde357ca59a8b0ab" title="CameraInterface::CameraInterface" alt="" coords="764,71,1012,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="getDataTest" name="getDataTest">
+<area shape="rect" id="node2" href="$test_8cpp.html#a6de80a398f2068876c44ff307bc2b8a8" title="setDatabaseTest" alt="" coords="177,5,307,32"/>
+<area shape="rect" id="node4" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="153,56,331,83"/>
+<area shape="rect" id="node7" href="$class_s_q_lite_connector.html#a6cb50f9a9c8204ece4b0ed60ab8f6fc1" title="SQLiteConnector::next" alt="" coords="159,107,325,133"/>
+<area shape="rect" id="node8" href="$class_s_q_lite_connector.html#a26ab5f55054c6fd41fe9f2a98c4ef5bc" title="SQLiteConnector::value" alt="" coords="155,157,329,184"/>
+<area shape="rect" id="node3" href="$class_s_q_lite_connector.html#a4efc2c696a814acf05e6505137b9dcf6" title="SQLiteConnector::setDatabase" alt="" coords="386,5,606,32"/>
+<area shape="rect" id="node5" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="380,56,612,83"/>
+<area shape="rect" id="node6" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="379,107,613,133"/>
+</map>

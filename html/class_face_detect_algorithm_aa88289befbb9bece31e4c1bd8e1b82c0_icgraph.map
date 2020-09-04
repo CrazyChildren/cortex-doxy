@@ -1,0 +1,9 @@
+<map id="FaceDetectAlgorithm::setGUIShowRect" name="FaceDetectAlgorithm::setGUIShowRect">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a407e71749d465874fa57bd941e81445e" title="if display state is STATE_FACE_LANMARK, then set a lable with and height, seems useless.. don&#39;t know why to do this. " alt="" coords="215,85,418,127"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="212,165,421,207"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8fca5e966f057f80f3627f77bfe9f9ba" title="RobotSystemControl\l::OpenCameraSlot" alt="" coords="505,5,660,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c9e71b7a408d87e443a4ff1958cf525" title="resize the label, open camera and set a timer_detectFace " alt="" coords="473,71,693,112"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a003a20f8343c6bcf07b3cd2633c97222" title="RobotSystemControl::updateCameraDisplaySizeSlot &#160;改变摄像头传出的QImage的大小 " alt="" coords="469,136,696,177"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="744,136,899,177"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="947,136,1109,177"/>
+</map>

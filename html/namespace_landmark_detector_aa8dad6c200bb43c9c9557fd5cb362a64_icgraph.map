@@ -1,0 +1,36 @@
+<map id="LandmarkDetector::ReadMatBin" name="LandmarkDetector::ReadMatBin">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_c_c_n_f__neuron.html#a8fcab5d130a1f23d0dd3e4bf73b4d8cf" title="LandmarkDetector::CCNF\l_neuron::Read" alt="" coords="289,79,476,120"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_c_e_n__patch__expert.html#a6e7dbdd15a0fa14dc6d33f4852e5efc9" title="LandmarkDetector::CEN\l_patch_expert::Read" alt="" coords="293,151,472,192"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_c_n_n.html#afa92f4f6126666f3c2a5f1d1caadf15d" title="LandmarkDetector::CNN\l::Read" alt="" coords="293,216,473,257"/>
+<area shape="rect" id="node8" href="$class_landmark_detector_1_1_detection_validator.html#a912dbac4226bd7dbc93d0fab97c6d56b" title="LandmarkDetector::Detection\lValidator::Read" alt="" coords="795,275,1009,316"/>
+<area shape="rect" id="node11" href="$class_landmark_detector_1_1_patch__experts.html#a25b30233ab01f56c30d4cf401d831859" title="LandmarkDetector::Patch\l_experts::Read_CCNF_patch\l_experts" alt="" coords="281,413,484,469"/>
+<area shape="rect" id="node33" href="$class_landmark_detector_1_1_patch__experts.html#a8401de1779b5ac2d7847b32330133d55" title="LandmarkDetector::Patch\l_experts::Read_CEN_patch\l_experts" alt="" coords="285,333,480,389"/>
+<area shape="rect" id="node34" href="$class_landmark_detector_1_1_p_a_w.html#a217380c920f2c397434bcb46bc759393" title="LandmarkDetector::PAW\l::Read" alt="" coords="293,493,472,535"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_c_c_n_f__neuron.html#a83b0abef58fa37588ea145d1d16b476b" title="LandmarkDetector::CCNF\l_neuron::CCNF_neuron" alt="" coords="546,5,733,47"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_c_c_n_f__patch__expert.html#ae406149166c666537e3e786cb6a08cb4" title="LandmarkDetector::CCNF\l_patch_expert::CCNF_patch\l_expert" alt="" coords="539,71,739,127"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_c_e_n__patch__expert.html#aea73926db6f2fe31ebc8541d727ad7dd" title="LandmarkDetector::CEN\l_patch_expert::CEN_patch\l_expert" alt="" coords="543,151,735,207"/>
+<area shape="rect" id="node9" href="$class_landmark_detector_1_1_c_l_n_f.html#a37f38c2112f75654bebf04838c3e53f8" title="LandmarkDetector::CLNF\l::Read" alt="" coords="1059,275,1243,316"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_c_l_n_f.html#aba0d5428539b5048ba167359f2f576af" title="LandmarkDetector::CLNF\l::CLNF" alt="" coords="1306,271,1490,312"/>
+<area shape="rect" id="node12" href="$class_landmark_detector_1_1_patch__experts.html#ae0938855f2ea3ed2376d3debd93510f6" title="LandmarkDetector::Patch\l_experts::nViews" alt="" coords="809,415,995,456"/>
+<area shape="rect" id="node31" href="$class_landmark_detector_1_1_patch__experts.html#af1e50a79663f0d240d31bea2ea1fe585" title="LandmarkDetector::Patch\l_experts::Read" alt="" coords="546,384,733,425"/>
+<area shape="rect" id="node13" href="$class_landmark_detector_1_1_patch__experts.html#ae7a3395d8c7b8da772f5c0415deb59f5" title="LandmarkDetector::Patch\l_experts::GetViewIdx" alt="" coords="1057,440,1244,481"/>
+<area shape="rect" id="node14" href="$class_landmark_detector_1_1_patch__experts.html#a7b683d760e26358c708e97053d8aa18e" title="LandmarkDetector::Patch\l_experts::Patch_experts" alt="" coords="1562,548,1749,589"/>
+<area shape="rect" id="node15" href="$class_landmark_detector_1_1_c_l_n_f.html#a65173972b8c071803913e62ed2a25400" title="LandmarkDetector::CLNF::Fit" alt="" coords="1552,417,1759,443"/>
+<area shape="rect" id="node28" href="$class_landmark_detector_1_1_c_l_n_f.html#a619170278838341c6b9c854daabf2677" title="LandmarkDetector::CLNF\l::GetVisibilities" alt="" coords="1306,388,1490,429"/>
+<area shape="rect" id="node29" href="$namespace_landmark_detector.html#a7484d8c65c72c60fa81a51055acdd41d" title="LandmarkDetector::Calculate\lVisibleLandmarks" alt="" coords="1292,453,1504,495"/>
+<area shape="rect" id="node30" href="$class_landmark_detector_1_1_patch__experts.html#a767af3142d0497fe5d788a750efad3f3" title="LandmarkDetector::Patch\l_experts::Response" alt="" coords="1305,519,1491,560"/>
+<area shape="rect" id="node16" href="$class_landmark_detector_1_1_c_l_n_f.html#ab54761b9ff2673456191eeecdcb291ce" title="LandmarkDetector::CLNF\l::DetectLandmarks" alt="" coords="1807,409,1991,451"/>
+<area shape="rect" id="node17" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="2053,344,2247,385"/>
+<area shape="rect" id="node25" href="$_landmark_detector_func_8cpp.html#aafa61def67b62aedfdc84bd521e59a9a" title="DetectLandmarksInImageMulti\lHypBasic" alt="" coords="2039,475,2261,516"/>
+<area shape="rect" id="node27" href="$_landmark_detector_func_8cpp.html#abc4c53f4164ba4aa70922b3e5730c877" title="DetectLandmarksInImageMulti\lHypEarlyTerm" alt="" coords="2039,409,2261,451"/>
+<area shape="rect" id="node18" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="2309,361,2515,403"/>
+<area shape="rect" id="node24" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="2315,296,2509,337"/>
+<area shape="rect" id="node19" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="2563,369,2756,395"/>
+<area shape="rect" id="node20" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="2804,361,2963,403"/>
+<area shape="rect" id="node21" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="3011,361,3220,403"/>
+<area shape="rect" id="node22" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="3268,361,3423,403"/>
+<area shape="rect" id="node23" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="3471,361,3633,403"/>
+<area shape="rect" id="node26" href="$namespace_landmark_detector.html#aabd705e9456f9b93c1426955d13e2343" title="LandmarkDetector::Detect\lLandmarksInImage" alt="" coords="2315,443,2509,484"/>
+<area shape="rect" id="node32" href="$class_landmark_detector_1_1_c_l_n_f.html#a527d24865d936dcd513757be79e4188b" title="LandmarkDetector::CLNF\l::Read_CLNF" alt="" coords="810,343,994,384"/>
+<area shape="rect" id="node35" href="$class_landmark_detector_1_1_p_a_w.html#a4a688d15ffc442e61bd02692ee0d4246" title="LandmarkDetector::PAW::PAW" alt="" coords="532,501,747,527"/>
+</map>

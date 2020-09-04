@@ -1,0 +1,6 @@
+<map id="Utilities::SequenceCapture::GetFrameNumber" name="Utilities::SequenceCapture::GetFrameNumber">
+<area shape="rect" id="node2" href="$class_utilities_1_1_sequence_capture.html#a6feb6aca69f99464d5f3d4aeff5a8bfa" title="Utilities::SequenceCapture\l::IsOpened" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_sequence_capture.html#a4b8f4351f8d48e566a6430b0daae0354" title="Utilities::SequenceCapture\l::Close" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$class_concurrent_queue.html#ad46199753ce77c58b3b256074c1df5e2" title="ConcurrentQueue::empty" alt="" coords="491,53,676,79"/>
+<area shape="rect" id="node5" href="$class_concurrent_queue.html#a6412cc45f2c19f1090611fbd1930b8e2" title="ConcurrentQueue::pop" alt="" coords="500,103,667,130"/>
+</map>

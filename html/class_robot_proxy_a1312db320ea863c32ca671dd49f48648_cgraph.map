@@ -1,0 +1,4 @@
+<map id="RobotProxy::moveljoint" name="RobotProxy::moveljoint">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="227,5,428,32"/>
+<area shape="rect" id="node3" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="476,5,616,32"/>
+</map>

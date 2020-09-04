@@ -1,0 +1,12 @@
+<map id="magTracker::initialTracker" name="magTracker::initialTracker">
+<area shape="rect" id="node2" href="$class_tracker_unit.html#a3eac5e32c3211c23837d9d337001f862" title="TrackerUnit::InitTrackerUnit" alt="" coords="244,5,443,32"/>
+<area shape="rect" id="node3" href="$classmag_tracker.html#ababca6ab5f49d828b223a6a8f5fc7026" title="magTracker::connect" alt="" coords="265,56,422,83"/>
+<area shape="rect" id="node6" href="$class_pi_tracker.html#ab2fadf3207d5d4cd63a51685a9def770" title="PiTracker::WriteTrkData" alt="" coords="257,107,430,133"/>
+<area shape="rect" id="node9" href="$class_pi_tracker.html#ac4ab9b06afab94bc2a70de474de33a6e" title="PiTracker::ReadTrkData" alt="" coords="258,208,429,235"/>
+<area shape="rect" id="node4" href="$class_pi_tracker.html#a2b02d72c02053c9abef00d3671c4e173" title="PiTracker::UsbConnect" alt="" coords="505,5,671,32"/>
+<area shape="rect" id="node5" href="$class_pi_tracker.html#a496addc7e77dec0d278bbc56b6731e2a" title="PiTracker::Rs232Connect" alt="" coords="497,56,679,83"/>
+<area shape="rect" id="node7" href="$class_pi_tracker.html#a00abceae401e472b2cb7d1980c1378f8" title="PiTracker::WriteUsbData" alt="" coords="499,107,677,133"/>
+<area shape="rect" id="node8" href="$class_pi_tracker.html#a569085a3cbe899fc59135055c66a0e15" title="PiTracker::WriteRs232Data" alt="" coords="491,157,685,184"/>
+<area shape="rect" id="node10" href="$class_pi_tracker.html#a4bfe67fa1e84e1bf43a97d31d3fbd7ab" title="PiTracker::ReadUsbData" alt="" coords="499,208,677,235"/>
+<area shape="rect" id="node11" href="$class_pi_tracker.html#a4a8ad3f8276a2aa09ebda0e0141482af" title="PiTracker::ReadRs232Data" alt="" coords="492,259,684,285"/>
+</map>

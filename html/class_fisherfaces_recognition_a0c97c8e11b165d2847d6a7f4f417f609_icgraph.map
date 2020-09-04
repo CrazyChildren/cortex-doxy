@@ -1,0 +1,6 @@
+<map id="FisherfacesRecognition::setNumPersons" name="FisherfacesRecognition::setNumPersons">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a90945c389bfa5c2aff7c413a7ac85ca8" title="FisherfacesRecognition\l::addNewTrainPerson" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a1874e100d1646c97bbb0f634e5503ead" title="RobotSystemControl\l::AddTrainPersonFaceSlot" alt="" coords="443,5,627,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="675,5,829,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="877,5,1040,47"/>
+</map>

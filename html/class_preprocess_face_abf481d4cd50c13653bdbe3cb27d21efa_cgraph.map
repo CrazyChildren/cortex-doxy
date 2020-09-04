@@ -1,0 +1,4 @@
+<map id="PreprocessFace::getPreprocessedLargestFace" name="PreprocessFace::getPreprocessedLargestFace">
+<area shape="rect" id="node2" href="$class_detect_object_algorithm.html#ab4ded486bad99a14285692d1d5f2afb1" title="detectLargestObject 识别图片中的一个物体，例如最大的脸，将结果储存到‘argestObject’中， 可以用Haar c..." alt="" coords="292,5,463,47"/>
+<area shape="rect" id="node3" href="$class_detect_object_algorithm.html#ad499d4ed7e0c89676816c9dcf0a763c2" title="DetectObjectAlgorithm\l::detectObjectsCustom" alt="" coords="511,5,681,47"/>
+</map>

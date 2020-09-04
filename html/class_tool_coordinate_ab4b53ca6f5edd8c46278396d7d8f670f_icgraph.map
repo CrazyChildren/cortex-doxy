@@ -1,0 +1,7 @@
+<map id="ToolCoordinate::getRz" name="ToolCoordinate::getRz">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#ab5f5dfcbf1259a2dbcce36562aed4194" title="RobotSystemControl\l::slotCopyCurrentValue" alt="" coords="217,5,388,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#aca9c0d2f701d78d4c3a9ffe1a1fb6e95" title="将机械臂当前信息更新至界面,and set the state to visulServo algorithem " alt="" coords="217,71,388,112"/>
+<area shape="rect" id="node6" href="$class_robot_proxy.html#aa006fc689e74252049de09f8e16449bd" title="move robot to corrosponding pos " alt="" coords="219,137,386,163"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="436,39,591,80"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="639,39,801,80"/>
+</map>

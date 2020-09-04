@@ -1,0 +1,8 @@
+<map id="FaceDetectAlgorithm::showHelp" name="FaceDetectAlgorithm::showHelp">
+<area shape="rect" id="node2" href="$class_common.html#ab81ddd95b5858e34b620510cc45e9baa" title="Common::toString" alt="" coords="227,5,367,32"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a2c8453e74e29ab69bd16fb8a36a5a41a" title="FisherfacesRecognition\l::getCollectionNum" alt="" coords="212,57,383,98"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="212,122,383,163"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#a6069e77ca4b911295f96b059c86916f0" title="FisherfacesRecognition\l::getPersionId" alt="" coords="212,187,383,229"/>
+<area shape="rect" id="node6" href="$class_preprocess_face.html#af0b1d20e88d77e0ef8478fd6a9dce0d7" title="PreprocessFace::size" alt="" coords="219,253,375,280"/>
+<area shape="rect" id="node7" href="$class_face_detect_algorithm.html#a2dd7def401b83e4d29a3dee19a227c30" title="FaceDetectAlgorithm\l::drawString" alt="" coords="218,305,377,346"/>
+</map>

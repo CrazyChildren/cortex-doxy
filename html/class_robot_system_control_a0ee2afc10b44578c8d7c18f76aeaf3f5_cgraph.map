@@ -1,0 +1,4 @@
+<map id="RobotSystemControl::windowLoad" name="RobotSystemControl::windowLoad">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#ad4374a70450f6cb4c19df66c806f6214" title="MainWin::changeWinSlot guid_win上所有按钮的信号槽，用于切换到其他界面 " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a7488657209929b4463f7909be9bb0717" title="switch current window to des windos " alt="" coords="411,5,565,47"/>
+</map>

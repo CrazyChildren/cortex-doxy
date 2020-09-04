@@ -1,0 +1,9 @@
+<map id="FisherModelEntity::loadModel" name="FisherModelEntity::loadModel">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a7ffd6b77b6cc9e6e9b77aaa3a3881782" title="FisherfacesRecognition\l::FisherfacesRecognition" alt="" coords="197,5,376,47"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#aed597a2f66a2b1d7ee3165539e1a439e" title="FisherfacesRecognition\l::deleteAll" alt="" coords="201,71,372,112"/>
+<area shape="rect" id="node8" href="$test_8h.html#ad382993c2d8180abbac8e8ea6f631524" title="loadModelTest" alt="" coords="229,137,344,163"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="424,41,595,83"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="643,71,813,112"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="861,71,1032,112"/>
+<area shape="rect" id="node7" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="1080,71,1239,112"/>
+</map>

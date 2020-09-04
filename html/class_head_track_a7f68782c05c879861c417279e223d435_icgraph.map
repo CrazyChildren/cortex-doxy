@@ -1,0 +1,4 @@
+<map id="HeadTrack::track_head" name="HeadTrack::track_head">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a4f192e96e90ddf8d8755e75a34a4da83" title="RobotSystemControl\l::Kinect2_cycle" alt="" coords="224,5,379,47"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="427,5,589,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="VisualServoAlgorithm" name="VisualServoAlgorithm">
+<area shape="rect" id="node3" href="$class_tool_coordinate.html" title="a class used to accommodate toolCoordinate, with method to read them. " alt="" coords="105,5,223,32"/>
+<area shape="rect" id="node4" href="$classrobot_joint.html" title="a class used to accommodate robot joint and joint speed para, with method to read those..." alt="" coords="315,5,400,32"/>
+</map>

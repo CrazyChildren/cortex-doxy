@@ -1,0 +1,6 @@
+<map id="open_sensor" name="open_sensor">
+<area shape="rect" id="node2" href="$ftusb_8cpp.html#add1dcef7b88945c58876f65fd9cbea9d" title="MySleep" alt="" coords="203,5,281,32"/>
+<area shape="rect" id="node3" href="$class_opto_ports.html#a8ab57858660285f4ac5bcf1b3f07c98e" title="OptoPorts::listPorts" alt="" coords="169,56,315,83"/>
+<area shape="rect" id="node4" href="$class_opto_ports.html#a1483db815d475fa82d63dae2cc5db427" title="OptoPorts::getLastSize" alt="" coords="157,107,327,133"/>
+<area shape="rect" id="node5" href="$class_opto_d_a_q.html#ac1ee37bfd0a7db3e16dbc470f2096eb2" title="OptoDAQ::open" alt="" coords="181,157,303,184"/>
+</map>

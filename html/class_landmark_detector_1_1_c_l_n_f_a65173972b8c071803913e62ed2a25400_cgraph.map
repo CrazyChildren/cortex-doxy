@@ -1,0 +1,36 @@
+<map id="LandmarkDetector::CLNF::Fit" name="LandmarkDetector::CLNF::Fit">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_p_d_m.html#a9bdfa88e51f605a55da61c5f6c380ff0" title="LandmarkDetector::PDM\l::NumberOfPoints" alt="" coords="1309,715,1489,756"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_patch__experts.html#a767af3142d0497fe5d788a750efad3f3" title="LandmarkDetector::Patch\l_experts::Response" alt="" coords="260,1027,447,1068"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_patch__experts.html#ae7a3395d8c7b8da772f5c0415deb59f5" title="LandmarkDetector::Patch\l_experts::GetViewIdx" alt="" coords="519,1209,705,1251"/>
+<area shape="rect" id="node14" href="$class_landmark_detector_1_1_p_d_m.html#a3d7a0f75258fc41bc63bb397549faec6" title="LandmarkDetector::PDM\l::CalcShape2D" alt="" coords="1061,656,1241,697"/>
+<area shape="rect" id="node21" href="$class_landmark_detector_1_1_c_l_n_f.html#ace27fe53522e79476000b7f8f5b02cbf" title="LandmarkDetector::CLNF\l::NU_RLMS" alt="" coords="261,504,445,545"/>
+<area shape="rect" id="node13" href="$class_landmark_detector_1_1_patch__experts.html#ad3ab893e67a141446ac85669c388f414" title="LandmarkDetector::Patch\l_experts::Collect_visible\l_landmarks" alt="" coords="1057,1127,1244,1183"/>
+<area shape="rect" id="node18" href="$namespace_utilities.html#a2795671072cc283e1d1b56cb089d82ac" title="Utilities::AlignShapesWith\lScale" alt="" coords="517,1092,707,1133"/>
+<area shape="rect" id="node20" href="$namespace_landmark_detector.html#aa03617245539050ad6344d8432a64b93" title="LandmarkDetector::interpolation\lMatrix" alt="" coords="495,1027,729,1068"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_patch__experts.html#ae0938855f2ea3ed2376d3debd93510f6" title="LandmarkDetector::Patch\l_experts::nViews" alt="" coords="797,1225,984,1267"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_patch__experts.html#af1e50a79663f0d240d31bea2ea1fe585" title="LandmarkDetector::Patch\l_experts::Read" alt="" coords="1057,1309,1244,1351"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_patch__experts.html#a7ddb4c3d377a982086cc95cfde9ca500" title="LandmarkDetector::Patch\l_experts::Read_SVR_patch\l_experts" alt="" coords="1301,1197,1496,1253"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_patch__experts.html#a25b30233ab01f56c30d4cf401d831859" title="LandmarkDetector::Patch\l_experts::Read_CCNF_patch\l_experts" alt="" coords="1297,1278,1500,1334"/>
+<area shape="rect" id="node12" href="$class_landmark_detector_1_1_patch__experts.html#a8401de1779b5ac2d7847b32330133d55" title="LandmarkDetector::Patch\l_experts::Read_CEN_patch\l_experts" alt="" coords="1301,1358,1496,1414"/>
+<area shape="rect" id="node8" href="$namespace_landmark_detector.html#a2376077b350b2038cda589246fc225fb" title="LandmarkDetector::SkipComments" alt="" coords="1548,1226,1799,1253"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#a64a98273c9582757e52b191cd951dcf9" title="LandmarkDetector::ReadMat" alt="" coords="1570,1175,1777,1202"/>
+<area shape="rect" id="node11" href="$namespace_landmark_detector.html#aa8dad6c200bb43c9c9557fd5cb362a64" title="LandmarkDetector::ReadMatBin" alt="" coords="1559,1333,1787,1359"/>
+<area shape="rect" id="node15" href="$namespace_utilities.html#ac33d7987f7ca362e691087e9036c2000" title="Utilities::Euler2Rotation\lMatrix" alt="" coords="1311,320,1487,361"/>
+<area shape="rect" id="node16" href="$class_landmark_detector_1_1_p_d_m.html#a4a0a9e6eb557df2d28e70b6e4c525bee" title="LandmarkDetector::PDM\l::CalcShape3D" alt="" coords="1309,465,1489,507"/>
+<area shape="rect" id="node17" href="$stdafx_8h.html#a0ff825e6e6cd216038f11280a5578e1b" title="sgemm_" alt="" coords="1634,699,1713,726"/>
+<area shape="rect" id="node19" href="$namespace_utilities.html#a9d89026d7ac37d03dd60fec8c3bbbd29" title="Utilities::AlignShapesKabsch2D" alt="" coords="777,1099,1004,1126"/>
+<area shape="rect" id="node22" href="$class_landmark_detector_1_1_p_d_m.html#a0ac1242f0e3ab33c2cf8adfd50004d52" title="LandmarkDetector::PDM\l::NumberOfModes" alt="" coords="522,359,702,400"/>
+<area shape="rect" id="node23" href="$class_landmark_detector_1_1_p_d_m.html#a3784c1543682a3c4a8ea9fd86ba9a8be" title="LandmarkDetector::PDM\l::Clamp" alt="" coords="801,169,981,211"/>
+<area shape="rect" id="node27" href="$class_landmark_detector_1_1_p_d_m.html#a3b3d41977afebec24cb26af4cd277f18" title="LandmarkDetector::PDM\l::ComputeRigidJacobian" alt="" coords="1061,320,1241,361"/>
+<area shape="rect" id="node28" href="$class_landmark_detector_1_1_p_d_m.html#a44ff89b30c18a872fe22f70edfbe1229" title="LandmarkDetector::PDM\l::ComputeJacobian" alt="" coords="801,504,981,545"/>
+<area shape="rect" id="node29" href="$class_landmark_detector_1_1_p_d_m.html#a9a59eb2db4059cd3ed03c64707095637" title="LandmarkDetector::PDM\l::UpdateModelParameters" alt="" coords="795,52,986,93"/>
+<area shape="rect" id="node34" href="$class_landmark_detector_1_1_c_l_n_f.html#adcf0ad62eecfe015df8d0372a4195359" title="LandmarkDetector::CLNF\l::GetWeightMatrix" alt="" coords="520,656,704,697"/>
+<area shape="rect" id="node35" href="$class_landmark_detector_1_1_c_l_n_f.html#af087347c726162795cd3fdd283694b76" title="LandmarkDetector::CLNF\l::NonVectorisedMeanShift\l_precalc_kde" alt="" coords="517,74,707,130"/>
+<area shape="rect" id="node24" href="$class_landmark_detector_1_1_p_d_m.html#aaab172f51e499f0dffd348648a6d24ff" title="LandmarkDetector::PDM\l::CalcParams" alt="" coords="1061,255,1241,296"/>
+<area shape="rect" id="node25" href="$class_landmark_detector_1_1_p_d_m.html#a5e531fa6b2e794bf71cd9d3ad661dfb1" title="LandmarkDetector::PDM\l::CalcBoundingBox" alt="" coords="801,439,981,480"/>
+<area shape="rect" id="node30" href="$class_landmark_detector_1_1_p_d_m.html#a5ecf36d5d140f0dcb24b6981b8cacbb7" title="LandmarkDetector::PDM\l::Orthonormalise" alt="" coords="1061,183,1241,224"/>
+<area shape="rect" id="node26" href="$namespace_landmark_detector.html#ac63683987824518da16f521a18e86409" title="LandmarkDetector::Extract\lBoundingBox" alt="" coords="1052,437,1249,479"/>
+<area shape="rect" id="node31" href="$namespace_utilities.html#a94c1ff56db6714e75e229c82ec116780" title="Utilities::RotationMatrix2\lAxisAngle" alt="" coords="1059,115,1243,156"/>
+<area shape="rect" id="node32" href="$namespace_utilities.html#a4660ff07ca8ea94479ae4bcb1b9691b0" title="Utilities::AxisAngle2Euler" alt="" coords="1057,13,1244,39"/>
+<area shape="rect" id="node33" href="$namespace_utilities.html#ac505d78fefa11d22a6fb0ffcf514f121" title="Utilities::RotationMatrix2\lEuler" alt="" coords="1307,5,1491,47"/>
+</map>

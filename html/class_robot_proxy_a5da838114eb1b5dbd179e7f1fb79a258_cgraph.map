@@ -1,0 +1,5 @@
+<map id="RobotProxy::openForceSensor" name="RobotProxy::openForceSensor">
+<area shape="rect" id="node2" href="$class_opto_ports.html#a8ab57858660285f4ac5bcf1b3f07c98e" title="OptoPorts::listPorts" alt="" coords="279,5,426,32"/>
+<area shape="rect" id="node3" href="$class_opto_ports.html#a1483db815d475fa82d63dae2cc5db427" title="OptoPorts::getLastSize" alt="" coords="268,56,437,83"/>
+<area shape="rect" id="node4" href="$class_opto_d_a_q.html#ac1ee37bfd0a7db3e16dbc470f2096eb2" title="OptoDAQ::open" alt="" coords="291,107,414,133"/>
+</map>

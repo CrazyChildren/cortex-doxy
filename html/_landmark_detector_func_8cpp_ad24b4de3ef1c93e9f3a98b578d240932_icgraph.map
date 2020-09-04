@@ -1,0 +1,10 @@
+<map id="UpdateTemplate" name="UpdateTemplate">
+<area shape="rect" id="node2" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="183,39,377,80"/>
+<area shape="rect" id="node3" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="425,5,631,47"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="431,71,625,112"/>
+<area shape="rect" id="node4" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="679,13,872,39"/>
+<area shape="rect" id="node5" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="920,5,1079,47"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="1127,5,1336,47"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="1384,5,1539,47"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1587,5,1749,47"/>
+</map>

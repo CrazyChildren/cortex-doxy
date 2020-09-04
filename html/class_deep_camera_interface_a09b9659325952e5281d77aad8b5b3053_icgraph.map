@@ -1,0 +1,4 @@
+<map id="DeepCameraInterface::waitForFrame" name="DeepCameraInterface::waitForFrame">
+<area shape="rect" id="node2" href="$class_deep_camera_interface.html#aaaed997433ad7c79487110b9977107c6" title="DeepCameraInterface\l::testOpenCamera" alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node3" href="$class_deep_camera_interface.html#add35504784d2f7a1d2288107eeab9d90" title="this is a slot of timer_detectFace timeout, not a open function. it get data from rs2 and emit to pro..." alt="" coords="219,71,384,112"/>
+</map>

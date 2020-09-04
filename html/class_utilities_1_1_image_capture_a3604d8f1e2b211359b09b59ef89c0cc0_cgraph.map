@@ -1,0 +1,11 @@
+<map id="Utilities::ImageCapture::ImageCapture" name="Utilities::ImageCapture::ImageCapture">
+<area shape="rect" id="node2" href="$class_utilities_1_1_image_capture.html#a92614be8ffe9190f52efe15f938c9c55" title="Utilities::ImageCapture\l::Open" alt="" coords="227,57,400,99"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_image_capture.html#a12564c69a49148233cb2ceb5a87e472f" title="Utilities::ImageCapture\l::OpenImageFiles" alt="" coords="483,5,656,47"/>
+<area shape="rect" id="node4" href="$class_utilities_1_1_image_capture.html#a21f4c465933f801742bf3c47782611be" title="Utilities::ImageCapture\l::OpenDirectory" alt="" coords="483,81,656,123"/>
+<area shape="rect" id="node5" href="$class_utilities_1_1_image_capture.html#aa6e200b3323a2a56656ca7816ecfb4e4" title="Utilities::ImageCapture\l::GetNextImage" alt="" coords="227,175,400,216"/>
+<area shape="rect" id="node8" href="$class_utilities_1_1_image_capture.html#a3d66ec6bd8c066250eea907284fe3607" title="Utilities::ImageCapture\l::GetGrayFrame" alt="" coords="227,240,400,281"/>
+<area shape="rect" id="node9" href="$class_utilities_1_1_image_capture.html#a4131e4eaa9c7b45d1b0562181e257e96" title="Utilities::ImageCapture\l::GetBoundingBoxes" alt="" coords="227,305,400,347"/>
+<area shape="rect" id="node10" href="$class_utilities_1_1_image_capture.html#a6b548276b7a38cb318a84372ee35d1a1" title="Utilities::ImageCapture\l::GetProgress" alt="" coords="227,371,400,412"/>
+<area shape="rect" id="node6" href="$class_utilities_1_1_image_capture.html#aaee5d70eaedde67caaa8bad73676b59d" title="Utilities::ImageCapture\l::SetCameraIntrinsics" alt="" coords="483,169,656,211"/>
+<area shape="rect" id="node7" href="$namespace_utilities.html#a266bb698f8faa2bcfae27d2060e8a699" title="Utilities::ConvertToGrayscale_8bit" alt="" coords="448,235,691,262"/>
+</map>

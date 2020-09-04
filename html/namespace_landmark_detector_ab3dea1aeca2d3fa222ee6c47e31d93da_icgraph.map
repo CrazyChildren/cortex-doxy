@@ -1,0 +1,9 @@
+<map id="LandmarkDetector::matchTemplate_m" name="LandmarkDetector::matchTemplate_m">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_c_c_n_f__neuron.html#ab19283f5da5e243e53df0f1fac98bb92" title="LandmarkDetector::CCNF\l_neuron::Response" alt="" coords="343,79,530,120"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a9fb39e46e9ad8d5a17699679ff036a6d" title="LandmarkDetector::SVR\l_patch_expert::Response" alt="" coords="345,224,529,265"/>
+<area shape="rect" id="node8" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a0d041c6e9d6c4c92be506db9d4b4c6b1" title="LandmarkDetector::SVR\l_patch_expert::ResponseDepth" alt="" coords="325,159,548,200"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_c_c_n_f__neuron.html#a83b0abef58fa37588ea145d1d16b476b" title="LandmarkDetector::CCNF\l_neuron::CCNF_neuron" alt="" coords="603,5,789,47"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_c_c_n_f__patch__expert.html#ae406149166c666537e3e786cb6a08cb4" title="LandmarkDetector::CCNF\l_patch_expert::CCNF_patch\l_expert" alt="" coords="596,71,796,127"/>
+<area shape="rect" id="node6" href="$class_landmark_detector_1_1_s_v_r__patch__expert.html#a7d7f30fa199602c786e51f584196c75e" title="LandmarkDetector::SVR\l_patch_expert::SVR_patch\l_expert" alt="" coords="601,151,791,207"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_multi___s_v_r__patch__expert.html#a62aa753688e8dda546d34b8a8fdfd824" title="LandmarkDetector::Multi\l_SVR_patch_expert::Multi\l_SVR_patch_expert" alt="" coords="603,231,789,287"/>
+</map>

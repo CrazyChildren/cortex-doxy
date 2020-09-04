@@ -1,0 +1,13 @@
+<map id="WinBase" name="WinBase">
+<area shape="rect" id="node3" href="$class_admin_win.html" title="AdminWin" alt="" coords="307,5,397,32"/>
+<area shape="rect" id="node4" href="$class_guid_win.html" title="GuidWin" alt="" coords="313,56,391,83"/>
+<area shape="rect" id="node5" href="$class_head__track.html" title="used for head track module,this class mainly provide GUI interface, detailed implementations are call..." alt="" coords="304,107,400,133"/>
+<area shape="rect" id="node6" href="$class_help_win.html" title="HelpWin" alt="" coords="313,157,391,184"/>
+<area shape="rect" id="node7" href="$class_login_win.html" title="LoginWin" alt="" coords="311,208,393,235"/>
+<area shape="rect" id="node8" href="$class_neuronavigation_win.html" title="NeuronavigationWin" alt="" coords="275,259,429,285"/>
+<area shape="rect" id="node9" href="$class_patient_login_win.html" title="PatientLoginWin" alt="" coords="289,309,415,336"/>
+<area shape="rect" id="node10" href="$class_patient_medical_record_win.html" title="PatientMedicalRecordWin" alt="" coords="259,360,445,387"/>
+<area shape="rect" id="node11" href="$class_robot_management.html" title="this class contains Robot control GUI interface, control module was in RobotProxy ..." alt="" coords="280,411,424,437"/>
+<area shape="rect" id="node12" href="$class_robot_state_win.html" title="RobotStateWin" alt="" coords="293,461,411,488"/>
+<area shape="rect" id="node13" href="$class_test_win.html" title="TestWin" alt="" coords="315,512,389,539"/>
+</map>

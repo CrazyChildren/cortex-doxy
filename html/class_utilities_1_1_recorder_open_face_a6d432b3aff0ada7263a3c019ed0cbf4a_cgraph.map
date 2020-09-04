@@ -1,0 +1,8 @@
+<map id="Utilities::RecorderOpenFace::GetCSVFile" name="Utilities::RecorderOpenFace::GetCSVFile">
+<area shape="rect" id="node2" href="$class_utilities_1_1_recorder_open_face.html#ab9bec0d013e6978fe0fca51ab055edf3" title="Utilities::RecorderOpenFace\l::operator=" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_recorder_open_face.html#ad8115b12615766a304a8283a89b8c1d2" title="Utilities::RecorderOpenFace\l::RecorderOpenFace" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$class_utilities_1_1_recorder_open_face.html#a49378da6dd27641a482807fc5c5f0d56" title="Utilities::RecorderOpenFace\l::PrepareRecording" alt="" coords="504,100,705,141"/>
+<area shape="rect" id="node6" href="$class_utilities_1_1_recorder_open_face.html#aadbf8aa92cdb7c6b74f6be7a3deda958" title="Utilities::RecorderOpenFace\l::VideoWritingTask" alt="" coords="255,188,456,229"/>
+<area shape="rect" id="node7" href="$class_utilities_1_1_recorder_open_face.html#aedae14b2ba9de2a851b4c2d93ccb44c0" title="Utilities::RecorderOpenFace\l::AlignedImageWritingTask" alt="" coords="255,253,456,295"/>
+<area shape="rect" id="node5" href="$_recorder_open_face_8cpp.html#aa5cf1083f5af437aa95fc6b8e97d6452" title="CreateDirectory" alt="" coords="753,107,879,134"/>
+</map>

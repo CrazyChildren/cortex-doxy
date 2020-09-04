@@ -1,0 +1,7 @@
+<map id="robotJoint::getJoint6" name="robotJoint::getJoint6">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#ab5f5dfcbf1259a2dbcce36562aed4194" title="RobotSystemControl\l::slotCopyCurrentValue" alt="" coords="205,5,376,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#aca9c0d2f701d78d4c3a9ffe1a1fb6e95" title="将机械臂当前信息更新至界面,and set the state to visulServo algorithem " alt="" coords="205,71,376,112"/>
+<area shape="rect" id="node6" href="$class_robot_proxy.html#aa8b66683f5597aacb38cfcd490643e52" title="move robot to corrosponding joint angle " alt="" coords="204,137,377,163"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="425,39,580,80"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="628,39,791,80"/>
+</map>

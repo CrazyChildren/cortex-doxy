@@ -1,0 +1,9 @@
+<map id="PiTracker::WriteRs232Data" name="PiTracker::WriteRs232Data">
+<area shape="rect" id="node2" href="$class_pi_tracker.html#ab2fadf3207d5d4cd63a51685a9def770" title="PiTracker::WriteTrkData" alt="" coords="248,46,421,73"/>
+<area shape="rect" id="node3" href="$classmag_tracker.html#a3d3ee56b0d026c912e77e8d4ffc2db8f" title="magTracker::initialTracker" alt="" coords="477,17,667,43"/>
+<area shape="rect" id="node7" href="$classmag_tracker.html#aeb5abb13e58741419463a513d716a9d9" title="magTracker::getOnePosition" alt="" coords="469,71,675,98"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#ab95e26c583151bc1d0130191f105908e" title="RobotSystemControl\l::slotMagInitial" alt="" coords="723,5,878,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="927,39,1081,80"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1129,39,1292,80"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a27ed529107bd3fadc1940bc99f60f719" title="RobotSystemControl\l::slotMagGetPosition" alt="" coords="723,71,879,112"/>
+</map>

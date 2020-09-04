@@ -1,0 +1,12 @@
+<map id="FisherfacesRecognition::getNumPersions" name="FisherfacesRecognition::getNumPersions">
+<area shape="rect" id="node2" href="$class_face_detect_algorithm.html#a00cd48891549b3fbc8587cd33fc5020b" title="FaceDetectAlgorithm\l::showRecentFaces" alt="" coords="455,5,614,47"/>
+<area shape="rect" id="node4" href="$class_face_detect_algorithm.html#a4c9102e71cc835b0ceb058fcff46c342" title="FaceDetectAlgorithm\l::showHelp" alt="" coords="681,63,839,104"/>
+<area shape="rect" id="node5" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="224,127,395,168"/>
+<area shape="rect" id="node8" href="$class_fisherfaces_recognition.html#a90945c389bfa5c2aff7c413a7ac85ca8" title="FisherfacesRecognition\l::addNewTrainPerson" alt="" coords="224,192,395,233"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="895,63,1054,104"/>
+<area shape="rect" id="node6" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="449,127,620,168"/>
+<area shape="rect" id="node7" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="675,128,845,169"/>
+<area shape="rect" id="node9" href="$class_robot_system_control.html#a1874e100d1646c97bbb0f634e5503ead" title="RobotSystemControl\l::AddTrainPersonFaceSlot" alt="" coords="443,192,627,233"/>
+<area shape="rect" id="node10" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="683,193,837,235"/>
+<area shape="rect" id="node11" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="893,193,1056,235"/>
+</map>

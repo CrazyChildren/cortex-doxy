@@ -1,0 +1,10 @@
+<map id="DeepCameraInterface::testOpenCamera" name="DeepCameraInterface::testOpenCamera">
+<area shape="rect" id="node2" href="$class_deep_camera_interface.html#acf1b810372d9b30a6c192bf19ef7bcfb" title="DeepCameraInterface\l::getDepthScale" alt="" coords="232,5,397,47"/>
+<area shape="rect" id="node3" href="$class_deep_camera_interface.html#a09b9659325952e5281d77aad8b5b3053" title="get a collection of frames from rs2, and assign the value to mData. " alt="" coords="232,71,397,112"/>
+<area shape="rect" id="node4" href="$class_deep_camera_interface.html#ae565175ae4935ba7a2fe6199100fa519" title="get single frame from frame collection and transform to cv type. " alt="" coords="219,136,411,177"/>
+<area shape="rect" id="node8" href="$class_deep_camera_interface.html#ac54276e7e1b7c2e496c703394f197858" title="DeepCameraInterface\l::alignColorWithDepth" alt="" coords="232,201,397,243"/>
+<area shape="rect" id="node9" href="$class_deep_camera_interface.html#a087fa0fa1a2300e45f723fd5b41bb129" title="DeepCameraInterface\l::__init__" alt="" coords="232,267,397,308"/>
+<area shape="rect" id="node5" href="$class_deep_camera_interface.html#a840a725309b7b049745cefa8aece8312" title="DeepCameraInterface::frameToMat. " alt="" coords="672,169,837,211"/>
+<area shape="rect" id="node6" href="$class_deep_camera_interface.html#a40e5a90ae35d00534d1611247ee6949a" title="DeepCameraInterface::depthFrameToMeters. " alt="" coords="459,201,624,243"/>
+<area shape="rect" id="node7" href="$class_deep_camera_interface.html#ae35749d960f6d675e54abe12cf68baea" title="DeepCameraInterface\l::depthFrameToColor" alt="" coords="459,136,624,177"/>
+</map>

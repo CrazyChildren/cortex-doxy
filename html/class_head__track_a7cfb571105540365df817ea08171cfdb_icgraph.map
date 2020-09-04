@@ -1,0 +1,3 @@
+<map id="Head_track::signalGetInitialPose" name="Head_track::signalGetInitialPose">
+<area shape="rect" id="node2" href="$class_head__track.html#a34a30d5898897727b7077462ea98c722" title="pushButton getPose clicked,it call visualServo::getInitialPose() " alt="" coords="288,5,489,61"/>
+</map>

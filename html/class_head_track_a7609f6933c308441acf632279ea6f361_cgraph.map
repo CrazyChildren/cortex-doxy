@@ -1,0 +1,8 @@
+<map id="HeadTrack::HeadTrack" name="HeadTrack::HeadTrack">
+<area shape="rect" id="node2" href="$class_head_track.html#a4c0163bb57fead82186343601f565dee" title="HeadTrack::__init__" alt="" coords="239,71,385,98"/>
+<area shape="rect" id="node6" href="$class_head_track.html#a7d17cf972d90d91e9248af5f3d974f35" title="HeadTrack::init_Dlib" alt="" coords="236,122,388,149"/>
+<area shape="rect" id="node7" href="$class_landmark_detector_1_1_c_l_n_f.html#aaf717d64f391ca42edfd23c5e9739ddc" title="LandmarkDetector::CLNF\l::Reset" alt="" coords="220,173,404,215"/>
+<area shape="rect" id="node3" href="$namespace_configuration.html#a8960d13ac9bb05e5cb55e8b653eb9432" title="Configuration::getFaceMark\lModelName" alt="" coords="483,5,682,47"/>
+<area shape="rect" id="node4" href="$class_head_track.html#a78c690ff26eaf6156cfc6c022ea5e452" title="HeadTrack::initDetectors" alt="" coords="491,71,674,98"/>
+<area shape="rect" id="node5" href="$namespace_configuration.html#a8da95b924caecd14e2aade03c215481a" title="Configuration::getFaceCascadeName" alt="" coords="452,122,713,149"/>
+</map>

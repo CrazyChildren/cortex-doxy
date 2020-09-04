@@ -1,0 +1,6 @@
+<map id="RobotProxy::signalForceSensorGot" name="RobotProxy::signalForceSensorGot">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#a9e812325b68eda0bbf9695bb3c5fcd51" title="measure forceSensor data " alt="" coords="297,5,488,32"/>
+<area shape="rect" id="node3" href="$class_robot_proxy.html#ac74106ee5e712142865b44e493d0096c" title="a slot of mTimerRobotStateChange timeout interupt, 从机械臂中读取信息，更新机械臂状态, started from connectRobot() " alt="" coords="536,5,755,32"/>
+<area shape="rect" id="node4" href="$class_robot_proxy.html#a61a469ad20a2000fe0da356177ddd365" title="slot and signal connection function of robotproxy. " alt="" coords="803,5,980,32"/>
+<area shape="rect" id="node5" href="$class_robot_proxy.html#aa08d0614661d7ec99c74169df2da2189" title="RobotProxy::RobotProxy" alt="" coords="1028,5,1205,32"/>
+</map>

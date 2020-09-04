@@ -1,0 +1,7 @@
+<map id="PreprocessFace::empty" name="PreprocessFace::empty">
+<area shape="rect" id="node2" href="$class_face_detect_algorithm.html#a12d8994f5eea57fe54ce731e8a5b1374" title="FaceDetectAlgorithm\l::showFaceMarker" alt="" coords="228,5,387,47"/>
+<area shape="rect" id="node4" href="$class_face_detect_algorithm.html#a5fd2a744896e3b28a2ef7b1009e156e3" title="FaceDetectAlgorithm\l::showEyesMarker" alt="" coords="228,71,387,112"/>
+<area shape="rect" id="node5" href="$class_face_detect_algorithm.html#a2a2ee1334b59a677cbb1ae1d97006ca5" title="FaceDetectAlgorithm\l::showPreprocessFace" alt="" coords="225,136,389,177"/>
+<area shape="rect" id="node6" href="$class_face_detect_algorithm.html#a019f7d08e7bc24239808946c33d08ebe" title="FaceDetectAlgorithm\l::showDebugData" alt="" coords="228,201,387,243"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="437,71,596,112"/>
+</map>

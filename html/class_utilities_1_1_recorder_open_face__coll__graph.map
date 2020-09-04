@@ -1,0 +1,6 @@
+<map id="Utilities::RecorderOpenFace" name="Utilities::RecorderOpenFace">
+<area shape="rect" id="node2" href="$class_utilities_1_1_recorder_open_face_parameters.html" title="Utilities::RecorderOpenFace\lParameters" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_recorder_c_s_v.html" title="Utilities::RecorderCSV" alt="" coords="24,71,188,98"/>
+<area shape="rect" id="node4" href="$class_utilities_1_1_recorder_h_o_g.html" title="Utilities::RecorderHOG" alt="" coords="22,122,190,149"/>
+<area shape="rect" id="node5" href="$class_concurrent_queue.html" title="ConcurrentQueue\&lt; std\l::pair\&lt; std::string,\l cv::Mat \&gt; \&gt;" alt="" coords="21,173,191,229"/>
+</map>

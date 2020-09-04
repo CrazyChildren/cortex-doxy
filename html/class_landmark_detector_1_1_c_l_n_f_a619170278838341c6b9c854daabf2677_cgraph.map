@@ -1,0 +1,12 @@
+<map id="LandmarkDetector::CLNF::GetVisibilities" name="LandmarkDetector::CLNF::GetVisibilities">
+<area shape="rect" id="node2" href="$class_landmark_detector_1_1_patch__experts.html#ae7a3395d8c7b8da772f5c0415deb59f5" title="LandmarkDetector::Patch\l_experts::GetViewIdx" alt="" coords="237,129,424,170"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_patch__experts.html#ae0938855f2ea3ed2376d3debd93510f6" title="LandmarkDetector::Patch\l_experts::nViews" alt="" coords="472,129,659,170"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_patch__experts.html#af1e50a79663f0d240d31bea2ea1fe585" title="LandmarkDetector::Patch\l_experts::Read" alt="" coords="707,129,893,170"/>
+<area shape="rect" id="node5" href="$class_landmark_detector_1_1_patch__experts.html#a7ddb4c3d377a982086cc95cfde9ca500" title="LandmarkDetector::Patch\l_experts::Read_SVR_patch\l_experts" alt="" coords="945,15,1140,71"/>
+<area shape="rect" id="node8" href="$class_landmark_detector_1_1_patch__experts.html#a25b30233ab01f56c30d4cf401d831859" title="LandmarkDetector::Patch\l_experts::Read_CCNF_patch\l_experts" alt="" coords="941,176,1144,232"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_patch__experts.html#a8401de1779b5ac2d7847b32330133d55" title="LandmarkDetector::Patch\l_experts::Read_CEN_patch\l_experts" alt="" coords="945,96,1140,152"/>
+<area shape="rect" id="node11" href="$class_landmark_detector_1_1_patch__experts.html#ad3ab893e67a141446ac85669c388f414" title="LandmarkDetector::Patch\l_experts::Collect_visible\l_landmarks" alt="" coords="707,245,893,301"/>
+<area shape="rect" id="node6" href="$namespace_landmark_detector.html#a2376077b350b2038cda589246fc225fb" title="LandmarkDetector::SkipComments" alt="" coords="1192,56,1443,83"/>
+<area shape="rect" id="node7" href="$namespace_landmark_detector.html#a64a98273c9582757e52b191cd951dcf9" title="LandmarkDetector::ReadMat" alt="" coords="1214,5,1421,32"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#aa8dad6c200bb43c9c9557fd5cb362a64" title="LandmarkDetector::ReadMatBin" alt="" coords="1203,136,1431,163"/>
+</map>

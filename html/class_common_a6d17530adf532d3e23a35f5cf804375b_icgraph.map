@@ -1,0 +1,7 @@
+<map id="Common::qGetTime" name="Common::qGetTime">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a0aea039b0ef8867fe4edc7c5130a19bb" title="RobotSystemControl\l::TakePhotoSlot" alt="" coords="207,5,361,47"/>
+<area shape="rect" id="node3" href="$class_fisher_model_entity.html#a2f7ec70636e781dffb6a6b109dfe0be4" title="FisherModelEntity::createNewModel. " alt="" coords="212,71,356,112"/>
+<area shape="rect" id="node5" href="$test_8h.html#ae1c499fb2a2bd416e2696f23ee69c0ab" title="getTimeTest" alt="" coords="233,137,335,163"/>
+<area shape="rect" id="node6" href="$test_8h.html#adb61da4b4f365c2796449ab4d0012285" title="takePicturesTest" alt="" coords="219,187,349,214"/>
+<area shape="rect" id="node4" href="$test_8h.html#ae528e634c8fb651ed62910798d1657d5" title="createNewModelTest" alt="" coords="409,78,567,105"/>
+</map>

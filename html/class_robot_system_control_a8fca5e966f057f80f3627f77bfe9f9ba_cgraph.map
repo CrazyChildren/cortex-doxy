@@ -1,0 +1,4 @@
+<map id="RobotSystemControl::OpenCameraSlot" name="RobotSystemControl::OpenCameraSlot">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a407e71749d465874fa57bd941e81445e" title="if display state is STATE_FACE_LANMARK, then set a lable with and height, seems useless.. don&#39;t know why to do this. " alt="" coords="208,5,411,47"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#aa88289befbb9bece31e4c1bd8e1b82c0" title="FaceDetectAlgorithm\l::setGUIShowRect" alt="" coords="459,5,617,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LandmarkDetector::SVR_patch_expert::Response" name="LandmarkDetector::SVR_patch_expert::Response">
+<area shape="rect" id="node2" href="$_s_v_r__patch__expert_8cpp.html#a60051de25400eae3bc87eb101f150c05" title="Grad" alt="" coords="347,5,400,32"/>
+<area shape="rect" id="node3" href="$namespace_landmark_detector.html#ab3dea1aeca2d3fa222ee6c47e31d93da" title="LandmarkDetector::matchTemplate_m" alt="" coords="237,56,509,83"/>
+<area shape="rect" id="node4" href="$namespace_landmark_detector.html#a6be46e667ef1b9571ad5a2912d283ea0" title="LandmarkDetector::crossCorr_m" alt="" coords="557,56,789,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CameraInterface::readFrame" name="CameraInterface::readFrame">
+<area shape="rect" id="node2" href="$class_camera_interface.html#a11dab7d5e0a13130807bb20a74d5d558" title="CameraInterface::resizeImage" alt="" coords="263,5,482,32"/>
+<area shape="rect" id="node4" href="$class_camera_interface.html#af761e5fca9342188e1178dbd5a63243d" title="CameraInterface::Mat2QImage" alt="" coords="261,56,484,83"/>
+<area shape="rect" id="node3" href="$class_camera_interface.html#ad659d72bf3ae37c7ee39da05753c57ba" title="CameraInterface::getShowRect" alt="" coords="532,5,755,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RobotSystemControl::slotMagClose" name="RobotSystemControl::slotMagClose">
+<area shape="rect" id="node2" href="$classmag_tracker.html#a5a7ecb42a6c628a88954e4171759664b" title="magTracker::cleanTracker" alt="" coords="208,13,396,39"/>
+<area shape="rect" id="node3" href="$class_pi_tracker.html#a696dd450856c289056f6f962b0e5d68b" title="PiTracker::CloseTrk" alt="" coords="444,13,588,39"/>
+</map>

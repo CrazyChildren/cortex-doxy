@@ -1,0 +1,16 @@
+<map id="LandmarkDetector::DetectLandmarksInImage" name="LandmarkDetector::DetectLandmarksInImage">
+<area shape="rect" id="node2" href="$namespace_utilities.html#a266bb698f8faa2bcfae27d2060e8a699" title="Utilities::ConvertToGrayscale_8bit" alt="" coords="248,5,491,32"/>
+<area shape="rect" id="node3" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html#ab391179f8d5d7e1ec6167261d5305933" title="LandmarkDetector::FaceDetector\lMTCNN::empty" alt="" coords="251,57,487,98"/>
+<area shape="rect" id="node4" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html#ae404c0ec13e5c7d5f5f2f6ba885931a9" title="LandmarkDetector::FaceDetector\lMTCNN::Read" alt="" coords="251,122,487,163"/>
+<area shape="rect" id="node5" href="$namespace_landmark_detector.html#a4c27a5c5520d429e14cbb4ad7ee59d6f" title="LandmarkDetector::Detect\lSingleFaceHOG" alt="" coords="272,187,467,229"/>
+<area shape="rect" id="node7" href="$namespace_landmark_detector.html#aa255b4628c4542bc4643ac6579668e4c" title="LandmarkDetector::Detect\lSingleFace" alt="" coords="272,253,467,294"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#af4b01c2716aa2fda27a952359bf8f71f" title="LandmarkDetector::Detect\lSingleFaceMTCNN" alt="" coords="272,318,467,359"/>
+<area shape="rect" id="node6" href="$namespace_landmark_detector.html#a7e29c53223f90e0f7f214cbe4647f28d" title="LandmarkDetector::Detect\lFacesHOG" alt="" coords="559,187,754,229"/>
+<area shape="rect" id="node8" href="$namespace_landmark_detector.html#a0ba34bc7e81258a21bdc44a1f1929e4f" title="LandmarkDetector::Detect\lFaces" alt="" coords="559,253,754,294"/>
+<area shape="rect" id="node10" href="$class_landmark_detector_1_1_face_detector_m_t_c_n_n.html#a06a1a19f2ff9d651c56c111b64f49e7f" title="LandmarkDetector::FaceDetector\lMTCNN::DetectFaces" alt="" coords="539,318,775,359"/>
+<area shape="rect" id="node11" href="$_face_detector_m_t_c_n_n_8cpp.html#a1100a1a1e390f755507355296c9eca6c" title="generate_bounding_boxes" alt="" coords="825,224,1018,251"/>
+<area shape="rect" id="node12" href="$_face_detector_m_t_c_n_n_8cpp.html#a0b4803ee52903a64f852ea637633fc5e" title="non_maximum_supression" alt="" coords="823,275,1020,301"/>
+<area shape="rect" id="node13" href="$_face_detector_m_t_c_n_n_8cpp.html#a8894255f3b2761cf2effcdc03c0aa9dd" title="select_subset" alt="" coords="866,325,977,352"/>
+<area shape="rect" id="node14" href="$_face_detector_m_t_c_n_n_8cpp.html#a4e0d07c3df7db2f284adca9f6373eda1" title="apply_correction" alt="" coords="856,376,987,403"/>
+<area shape="rect" id="node15" href="$_face_detector_m_t_c_n_n_8cpp.html#ad78a2af9858ab82fd65d9e0957d69913" title="rectify" alt="" coords="889,427,953,453"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="FaceDetectAlgorithm::startDetect" name="FaceDetectAlgorithm::startDetect">
+<area shape="rect" id="node2" href="$class_face_detect_algorithm.html#a991fa171a609804fea4647593bc0b126" title="FaceDetectAlgorithm\l::clear" alt="" coords="218,203,377,245"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="212,269,383,310"/>
+<area shape="rect" id="node29" href="$class_face_detect_algorithm.html#a12d8994f5eea57fe54ce731e8a5b1374" title="FaceDetectAlgorithm\l::showFaceMarker" alt="" coords="218,735,377,777"/>
+<area shape="rect" id="node32" href="$class_face_detect_algorithm.html#a5fd2a744896e3b28a2ef7b1009e156e3" title="FaceDetectAlgorithm\l::showEyesMarker" alt="" coords="218,801,377,842"/>
+<area shape="rect" id="node34" href="$class_face_detect_algorithm.html#ae151eb8e68476b58ce58c9536dcc1c15" title="FaceDetectAlgorithm\l::showConfidenceRatio" alt="" coords="212,866,383,907"/>
+<area shape="rect" id="node35" href="$class_face_detect_algorithm.html#a0e55749daeb0c8f250ce3be15c4c5fb8" title="FaceDetectAlgorithm::getShowRect. " alt="" coords="218,931,377,973"/>
+<area shape="rect" id="node36" href="$class_face_detect_algorithm.html#a4c9102e71cc835b0ceb058fcff46c342" title="FaceDetectAlgorithm\l::showHelp" alt="" coords="218,510,377,551"/>
+<area shape="rect" id="node42" href="$class_face_detect_algorithm.html#a6ea81eaab10f64cfc354b0e1746746d4" title="FaceDetectAlgorithm\l::showCurrentMode" alt="" coords="218,670,377,711"/>
+<area shape="rect" id="node43" href="$class_face_detect_algorithm.html#a2a2ee1334b59a677cbb1ae1d97006ca5" title="FaceDetectAlgorithm\l::showPreprocessFace" alt="" coords="215,605,379,646"/>
+<area shape="rect" id="node44" href="$class_face_detect_algorithm.html#a00cd48891549b3fbc8587cd33fc5020b" title="FaceDetectAlgorithm\l::showRecentFaces" alt="" coords="218,334,377,375"/>
+<area shape="rect" id="node46" href="$class_face_detect_algorithm.html#aafc62426e6556a7d9b5ad333a6893946" title="FaceDetectAlgorithm::getResizeMarkedImage. " alt="" coords="218,997,377,1038"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#ac0c0e075bd37fc1549b120f53b2c6905" title="FisherfacesRecognition\l::recognizeAndTrain" alt="" coords="431,151,602,193"/>
+<area shape="rect" id="node5" href="$class_preprocess_face.html#aaa7ad40fe05d4b53af0892ce39f0d536" title="PreprocessFace::getPreprocessedFace" alt="" coords="651,188,917,215"/>
+<area shape="rect" id="node10" href="$class_preprocess_face.html#ae79ed9d80f99bf1e2b5d637e841b0b59" title="PreprocessFace::getFaceRect" alt="" coords="680,289,888,316"/>
+<area shape="rect" id="node11" href="$class_preprocess_face.html#a85373499bd3a9ea4883b9dfd648d5821" title="PreprocessFace::getEyesPoint" alt="" coords="677,5,891,32"/>
+<area shape="rect" id="node12" href="$class_fisherfaces_recognition.html#a441f7a5982ce367b5b40dac8cd34cc4f" title="FisherfacesRecognition::collectFace 将新的人脸图片及其镜像存到preprocess_faces中，并保存对应的id至fac..." alt="" coords="699,122,869,163"/>
+<area shape="rect" id="node15" href="$class_fisherfaces_recognition.html#a077665bf0ae79554620efbe86e1c3a3a" title="FisherfacesRecognition\l::train" alt="" coords="699,391,869,433"/>
+<area shape="rect" id="node23" href="$class_fisherfaces_recognition.html#aed597a2f66a2b1d7ee3165539e1a439e" title="FisherfacesRecognition\l::deleteAll" alt="" coords="999,298,1170,339"/>
+<area shape="rect" id="node27" href="$class_fisherfaces_recognition.html#ae9f8caa7b2359a5b9dac28d37da85a2b" title="FisherfacesRecognition\l::recognition" alt="" coords="699,57,869,98"/>
+<area shape="rect" id="node6" href="$class_preprocess_face.html#ac58fe879a5ecaf39e9217134470ac1d4" title="PreprocessFace::clear" alt="" coords="1256,247,1419,273"/>
+<area shape="rect" id="node7" href="$class_preprocess_face.html#abf481d4cd50c13653bdbe3cb27d21efa" title="PreprocessFace::getPreprocessed\lLargestFace" alt="" coords="965,181,1204,222"/>
+<area shape="rect" id="node8" href="$class_detect_object_algorithm.html#ab4ded486bad99a14285692d1d5f2afb1" title="detectLargestObject 识别图片中的一个物体，例如最大的脸，将结果储存到‘argestObject’中， 可以用Haar c..." alt="" coords="1252,181,1423,222"/>
+<area shape="rect" id="node9" href="$class_detect_object_algorithm.html#ad499d4ed7e0c89676816c9dcf0a763c2" title="DetectObjectAlgorithm\l::detectObjectsCustom" alt="" coords="1474,181,1645,222"/>
+<area shape="rect" id="node13" href="$class_preprocess_face.html#a94616b0b0118bea878f2d1ef6651fd50" title="PreprocessFace::at" alt="" coords="1013,129,1156,156"/>
+<area shape="rect" id="node14" href="$class_common.html#a853df4cfc36cff3eb3843437b30628fd" title="Common::getSimilarity 比较两图片的差异 " alt="" coords="998,79,1171,105"/>
+<area shape="rect" id="node16" href="$class_fisherfaces_recognition.html#a86cf146c4ad0baca1d4cfccb52bf238a" title="FisherfacesRecognition\l::learnCollectedFaces" alt="" coords="999,366,1170,407"/>
+<area shape="rect" id="node17" href="$class_fisherfaces_recognition.html#a32e3a8c4908862fb3722732d82d73682" title="FisherfacesRecognition\l::getNumPersions" alt="" coords="999,483,1170,525"/>
+<area shape="rect" id="node18" href="$class_fisher_model_entity.html#a9108c26468883fd17064809f32722a03" title="FisherModelEntity::\lsaveModel" alt="" coords="1265,429,1409,470"/>
+<area shape="rect" id="node19" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="1471,432,1648,459"/>
+<area shape="rect" id="node22" href="$namespace_configuration.html#a1617790e3569768cbc1518ad63deeb0e" title="Configuration::getFisher\lModelName" alt="" coords="1471,359,1647,401"/>
+<area shape="rect" id="node20" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="1697,407,1929,433"/>
+<area shape="rect" id="node21" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="1696,457,1931,484"/>
+<area shape="rect" id="node24" href="$class_fisher_model_entity.html#aa24edff0f93f5d6163d4de1d45853f9e" title="FisherModelEntity::\lloadModel" alt="" coords="1265,298,1409,339"/>
+<area shape="rect" id="node26" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="1252,363,1423,405"/>
+<area shape="rect" id="node25" href="$class_s_q_lite_connector.html#a6cb50f9a9c8204ece4b0ed60ab8f6fc1" title="SQLiteConnector::next" alt="" coords="1476,305,1643,332"/>
+<area shape="rect" id="node28" href="$class_fisherfaces_recognition.html#a247888c82d8c7423ffb9e848c56e20f7" title="FisherfacesRecognition\l::reconstructFace" alt="" coords="999,13,1170,54"/>
+<area shape="rect" id="node30" href="$class_preprocess_face.html#a2466930f9d2bb40eb974e2eff163fcfd" title="PreprocessFace::empty" alt="" coords="431,801,603,828"/>
+<area shape="rect" id="node31" href="$class_face_detect_algorithm.html#a933a23a9fe1b84b0a0968d9abb526c0d" title="FaceDetectAlgorithm\l::drawRect" alt="" coords="437,735,596,777"/>
+<area shape="rect" id="node33" href="$class_face_detect_algorithm.html#aaef97b55f3011a315bb4f544e3bf9ac6" title="FaceDetectAlgorithm\l::drawCircle" alt="" coords="437,853,596,894"/>
+<area shape="rect" id="node37" href="$class_common.html#ab81ddd95b5858e34b620510cc45e9baa" title="Common::toString" alt="" coords="447,400,587,427"/>
+<area shape="rect" id="node38" href="$class_fisherfaces_recognition.html#a2c8453e74e29ab69bd16fb8a36a5a41a" title="FisherfacesRecognition\l::getCollectionNum" alt="" coords="431,451,602,493"/>
+<area shape="rect" id="node39" href="$class_fisherfaces_recognition.html#a6069e77ca4b911295f96b059c86916f0" title="FisherfacesRecognition\l::getPersionId" alt="" coords="431,334,602,375"/>
+<area shape="rect" id="node40" href="$class_preprocess_face.html#af0b1d20e88d77e0ef8478fd6a9dce0d7" title="PreprocessFace::size" alt="" coords="439,517,595,544"/>
+<area shape="rect" id="node41" href="$class_face_detect_algorithm.html#a2dd7def401b83e4d29a3dee19a227c30" title="FaceDetectAlgorithm\l::drawString" alt="" coords="437,670,596,711"/>
+<area shape="rect" id="node45" href="$class_fisherfaces_recognition.html#aa98ba6019ca7c1a37d9fe2ad0a10978d" title="FisherfacesRecognition::getIdentity. " alt="" coords="431,217,602,258"/>
+<area shape="rect" id="node47" href="$class_common.html#afedb72b72fb5f44689d9c8f071b5cd6a" title="Common::Mat2QImage" alt="" coords="431,1004,603,1031"/>
+</map>

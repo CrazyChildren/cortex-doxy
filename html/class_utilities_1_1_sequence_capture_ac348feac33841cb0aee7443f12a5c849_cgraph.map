@@ -1,0 +1,7 @@
+<map id="Utilities::SequenceCapture::OpenVideoFile" name="Utilities::SequenceCapture::OpenVideoFile">
+<area shape="rect" id="node2" href="$class_utilities_1_1_sequence_capture.html#adfacebead6a3ff433a42cc4a4b2c4309" title="Utilities::SequenceCapture\l::SetCameraIntrinsics" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$class_utilities_1_1_sequence_capture.html#ac24be4c831fdbfd732647ca9411e3c40" title="Utilities::SequenceCapture\l::CaptureThread" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$class_concurrent_queue.html#a241a17101be9bd0eb31c02b2ba0f8cac" title="ConcurrentQueue::set\l_capacity" alt="" coords="531,12,693,53"/>
+<area shape="rect" id="node5" href="$namespace_utilities.html#a266bb698f8faa2bcfae27d2060e8a699" title="Utilities::ConvertToGrayscale_8bit" alt="" coords="491,78,733,105"/>
+<area shape="rect" id="node6" href="$class_concurrent_queue.html#a84613f1f45d45784579bbe866d28b162" title="ConcurrentQueue::push" alt="" coords="525,129,699,155"/>
+</map>

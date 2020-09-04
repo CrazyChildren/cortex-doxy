@@ -1,0 +1,4 @@
+<map id="RobotProxy::slotCloseForceSensor" name="RobotProxy::slotCloseForceSensor">
+<area shape="rect" id="node2" href="$class_robot_proxy.html#a18df0783094e5f39b435a3532be18ac3" title="close the forceSensor " alt="" coords="252,13,468,39"/>
+<area shape="rect" id="node3" href="$class_opto_d_a_q.html#aab564d0a43cbfcb3ad69e66e59d1f6eb" title="OptoDAQ::close" alt="" coords="516,13,640,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CameraInterface::CameraInterface" name="CameraInterface::CameraInterface">
+<area shape="rect" id="node2" href="$class_camera_interface.html#a9172d97727779a3f39bfd3c8a810e1d4" title="CameraInterface::_init" alt="" coords="301,31,468,57"/>
+<area shape="rect" id="node3" href="$class_camera_interface.html#ae96d4cd117e1cc83f1480187756c7645" title="CameraInterface::takeVideoSlot" alt="" coords="516,5,747,32"/>
+<area shape="rect" id="node4" href="$class_camera_interface.html#adf4321dca2b99638a8df9f5aa7d8e4f4" title="CameraInterface::timerImgGrab" alt="" coords="516,56,747,83"/>
+<area shape="rect" id="node5" href="$class_camera_interface.html#a1b5c28503fb3e4b50c696e3691ca08a2" title="CameraInterface::readFrameOnly" alt="" coords="795,56,1033,83"/>
+</map>

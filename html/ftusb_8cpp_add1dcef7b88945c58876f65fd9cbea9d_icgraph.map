@@ -1,0 +1,4 @@
+<map id="MySleep" name="MySleep">
+<area shape="rect" id="node2" href="$ftusb_8h.html#a3a69a05a8138547d5c8e10437c359c0f" title="first scan port to determine if there are forceSensor available, if so, open the first forceSensor; i..." alt="" coords="131,13,235,39"/>
+<area shape="rect" id="node3" href="$class_visual_servo_algorithm.html#a015a8e65e2cd015fdba54eacd906b7f0" title="slot of RobotManagement::signalOpenForceSensor, which was emited when open forceSensor button clicked..." alt="" coords="283,5,449,47"/>
+</map>

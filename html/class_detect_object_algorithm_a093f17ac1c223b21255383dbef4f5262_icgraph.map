@@ -1,0 +1,5 @@
+<map id="DetectObjectAlgorithm::detectManyObjects" name="DetectObjectAlgorithm::detectManyObjects">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#a2686bfa04e77b2231a5eb3dd0cecfe7e" title="PreprocessFace::getPreprocessed\lManyFaces" alt="" coords="224,5,463,47"/>
+<area shape="rect" id="node4" href="$test_8h.html#ad7e2010c7bc9af0250910cf50d130511" title="detectManyObjectsTest" alt="" coords="257,71,430,98"/>
+<area shape="rect" id="node3" href="$test_8h.html#a473ea364505cfef6df1c5f1bd955d07f" title="getPreprocessedManyFacesTest" alt="" coords="511,13,737,39"/>
+</map>

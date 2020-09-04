@@ -1,0 +1,7 @@
+<map id="RobotProxy::updateRobotState" name="RobotProxy::updateRobotState">
+<area shape="rect" id="node2" href="$class_t_c_p_connect.html#a25bae856cb9baac90dd46d0ce6313afe" title="TCPConnect::bytesAvailable" alt="" coords="272,5,475,32"/>
+<area shape="rect" id="node3" href="$class_t_c_p_connect.html#aec9db19dcc7145f8cdd3a08c8c274328" title="TCPConnect::read" alt="" coords="305,56,441,83"/>
+<area shape="rect" id="node4" href="$class_robot_proxy.html#a93c054f1f5e28223f68cf115f667d31f" title="RobotProxy::_setRobotState" alt="" coords="273,107,474,133"/>
+<area shape="rect" id="node5" href="$class_robot_proxy.html#a9e812325b68eda0bbf9695bb3c5fcd51" title="measure forceSensor data " alt="" coords="278,157,469,184"/>
+<area shape="rect" id="node6" href="$class_opto_d_a_q.html#a17dfec48c6bbfe1e8792453fe940217a" title="OptoDAQ::read6D" alt="" coords="523,157,660,184"/>
+</map>

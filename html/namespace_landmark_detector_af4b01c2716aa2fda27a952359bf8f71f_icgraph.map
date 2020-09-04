@@ -1,0 +1,11 @@
+<map id="LandmarkDetector::DetectSingleFaceMTCNN" name="LandmarkDetector::DetectSingleFaceMTCNN">
+<area shape="rect" id="node2" href="$namespace_landmark_detector.html#a7b7de72e999ac0bd918beddb8e7c6359" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="491,39,685,80"/>
+<area shape="rect" id="node10" href="$namespace_landmark_detector.html#a8153960ecc1e3b9e12c35787ddb5ca19" title="LandmarkDetector::Detect\lLandmarksInImage" alt="" coords="248,68,443,109"/>
+<area shape="rect" id="node3" href="$classclm_detector.html#a040c285e0d227e51bf24a5f332b03d2c" title="clmDetector::getClmFeature\lPoints" alt="" coords="733,5,939,47"/>
+<area shape="rect" id="node9" href="$namespace_landmark_detector.html#a4ce187505e7accac92c1657fd0d94213" title="LandmarkDetector::Detect\lLandmarksInVideo" alt="" coords="739,71,933,112"/>
+<area shape="rect" id="node4" href="$class_head_track.html#abf7c1c7b3f0db202c336c455729a20c1" title="get the landmark point fram deepCamrea image " alt="" coords="987,13,1180,39"/>
+<area shape="rect" id="node5" href="$class_face_detect_algorithm.html#a9e08ba9cbd831b78fdd5213abcba3d31" title="finding landmark points and disp these points. " alt="" coords="1228,5,1387,47"/>
+<area shape="rect" id="node6" href="$class_robot_system_control.html#a5a8873103bdfd42da638402e52693675" title="it was a slot, can be call on DeepCameraInterface::slotOpenCamera(), which is a timer timeout slot..." alt="" coords="1435,5,1644,47"/>
+<area shape="rect" id="node7" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="1692,5,1847,47"/>
+<area shape="rect" id="node8" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="1895,5,2057,47"/>
+</map>

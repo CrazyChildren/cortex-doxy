@@ -1,0 +1,5 @@
+<map id="RobotSystemControl::TrainFaceModelSlot" name="RobotSystemControl::TrainFaceModelSlot">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#a8bae057fbaad48cd481f091e321756d6" title="FisherfacesRecognition\l::setFisherMode" alt="" coords="208,39,379,80"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a0326a6a67704fe7f5f7c2d278947a70e" title="FisherfacesRecognition\l::setPersionId" alt="" coords="427,5,597,47"/>
+<area shape="rect" id="node4" href="$class_fisherfaces_recognition.html#a0fae721a9e35ce56a2101ca5b889f279" title="FisherfacesRecognition\l::getModelSize" alt="" coords="427,71,597,112"/>
+</map>

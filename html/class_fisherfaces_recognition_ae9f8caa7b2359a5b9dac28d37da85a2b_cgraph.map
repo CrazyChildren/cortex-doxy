@@ -1,0 +1,5 @@
+<map id="FisherfacesRecognition::recognition" name="FisherfacesRecognition::recognition">
+<area shape="rect" id="node2" href="$class_preprocess_face.html#a94616b0b0118bea878f2d1ef6651fd50" title="PreprocessFace::at" alt="" coords="239,5,382,32"/>
+<area shape="rect" id="node3" href="$class_fisherfaces_recognition.html#a247888c82d8c7423ffb9e848c56e20f7" title="FisherfacesRecognition\l::reconstructFace" alt="" coords="225,57,396,98"/>
+<area shape="rect" id="node4" href="$class_common.html#a853df4cfc36cff3eb3843437b30628fd" title="Common::getSimilarity 比较两图片的差异 " alt="" coords="224,123,397,149"/>
+</map>

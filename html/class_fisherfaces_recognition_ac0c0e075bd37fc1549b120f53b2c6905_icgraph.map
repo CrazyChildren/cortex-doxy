@@ -1,0 +1,4 @@
+<map id="FisherfacesRecognition::recognizeAndTrain" name="FisherfacesRecognition::recognizeAndTrain">
+<area shape="rect" id="node2" href="$class_fisherfaces_recognition.html#ad22ca7aed5cefb7e43f9e961dc618242" title="FisherfacesRecognition\l::start" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_face_detect_algorithm.html#a58001098fdbff06d6daf128e0633941c" title="FaceDetectAlgorithm\l::startDetect" alt="" coords="443,5,601,47"/>
+</map>

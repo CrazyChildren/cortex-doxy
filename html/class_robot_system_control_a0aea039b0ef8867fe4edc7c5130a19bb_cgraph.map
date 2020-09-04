@@ -1,0 +1,4 @@
+<map id="RobotSystemControl::TakePhotoSlot" name="RobotSystemControl::TakePhotoSlot">
+<area shape="rect" id="node2" href="$class_common.html#a6d17530adf532d3e23a35f5cf804375b" title="Common::qGetTime" alt="" coords="208,13,361,39"/>
+<area shape="rect" id="node3" href="$_sequence_capture_8cpp.html#aa46369f3c8adbff876c82270346fffa2" title="currentDateTime" alt="" coords="409,13,541,39"/>
+</map>

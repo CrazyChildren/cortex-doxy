@@ -1,0 +1,6 @@
+<map id="RobotSystemControl::windowSwitch" name="RobotSystemControl::windowSwitch">
+<area shape="rect" id="node2" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="613,35,776,76"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#ad4374a70450f6cb4c19df66c806f6214" title="MainWin::changeWinSlot guid_win上所有按钮的信号槽，用于切换到其他界面 " alt="" coords="208,35,363,76"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a0ee2afc10b44578c8d7c18f76aeaf3f5" title="init function, to init windows display " alt="" coords="411,35,565,76"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="411,100,565,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PiTracker::CloseTrk" name="PiTracker::CloseTrk">
+<area shape="rect" id="node2" href="$classmag_tracker.html#a5a7ecb42a6c628a88954e4171759664b" title="magTracker::cleanTracker" alt="" coords="197,13,385,39"/>
+<area shape="rect" id="node6" href="$class_pi_tracker.html#a3c2e1823e011bdb4e38c7ea43b581255" title="PiTracker::~PiTracker" alt="" coords="212,63,371,90"/>
+<area shape="rect" id="node3" href="$class_robot_system_control.html#aa20223a99ebfba497f532e396b8c0217" title="RobotSystemControl\l::slotMagClose" alt="" coords="433,5,588,47"/>
+<area shape="rect" id="node4" href="$class_robot_system_control.html#a8c24fd386c1a7fbd2ec0ba3472510afd" title="init function, init all connection between slots and signals " alt="" coords="636,5,791,47"/>
+<area shape="rect" id="node5" href="$class_robot_system_control.html#a57305c8445443a5204cd8bdb15444cd5" title="constructor, init all windows and put them to different thread. " alt="" coords="839,5,1001,47"/>
+</map>

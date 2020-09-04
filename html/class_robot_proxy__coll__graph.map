@@ -1,0 +1,9 @@
+<map id="RobotProxy" name="RobotProxy">
+<area shape="rect" id="node4" href="$class_t_c_p_connect.html" title="this class was mainly inherit QTcpSocket method that provide tcp service " alt="" coords="49,228,148,255"/>
+<area shape="rect" id="node3" href="$class_opto_ports.html" title="OptoPorts" alt="" coords="173,228,259,255"/>
+<area shape="rect" id="node5" href="$struct_opto_package6_d.html" title="OptoPackage6D" alt="" coords="311,228,436,255"/>
+<area shape="rect" id="node6" href="$struct_opto_package.html" title="OptoPackage" alt="" coords="320,95,427,121"/>
+<area shape="rect" id="node7" href="$struct_sensor_config.html" title="SensorConfig" alt="" coords="320,5,427,32"/>
+<area shape="rect" id="node8" href="$struct_o_port.html" title="OPort" alt="" coords="503,228,561,255"/>
+<area shape="rect" id="node9" href="$class_opto_d_a_q.html" title="OptoDAQ" alt="" coords="664,228,747,255"/>
+</map>

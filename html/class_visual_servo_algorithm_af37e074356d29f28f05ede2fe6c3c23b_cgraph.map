@@ -1,0 +1,6 @@
+<map id="VisualServoAlgorithm::getInitialPose" name="VisualServoAlgorithm::getInitialPose">
+<area shape="rect" id="node2" href="$class_visual_servo_algorithm.html#a9d90802392f05247103b1e572d1e67e7" title="VisualServoAlgorithm\l::getIllPoint" alt="" coords="216,39,379,80"/>
+<area shape="rect" id="node3" href="$class_visual_servo_algorithm.html#a345ceba7a652a102a6257971be90fc00" title="VisualServoAlgorithm\l::getHeadCordinate" alt="" coords="435,5,597,47"/>
+<area shape="rect" id="node4" href="$class_visual_servo_algorithm.html#aa6542e4980dd93b6b0d933c7d2607615" title="VisualServoAlgorithm\l::getPose_Head_to_cam" alt="" coords="427,71,605,112"/>
+<area shape="rect" id="node5" href="$class_visual_servo_algorithm.html#a9bb0ea8e64bfcc556c8398dae2029bce" title="VisualServoAlgorithm\l::sPnP" alt="" coords="653,71,816,112"/>
+</map>

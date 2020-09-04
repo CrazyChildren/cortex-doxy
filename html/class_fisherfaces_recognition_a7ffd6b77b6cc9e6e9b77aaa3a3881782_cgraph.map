@@ -1,0 +1,12 @@
+<map id="FisherfacesRecognition::FisherfacesRecognition" name="FisherfacesRecognition::FisherfacesRecognition">
+<area shape="rect" id="node2" href="$class_fisher_model_entity.html#aa24edff0f93f5d6163d4de1d45853f9e" title="FisherModelEntity::\lloadModel" alt="" coords="291,74,435,115"/>
+<area shape="rect" id="node8" href="$class_preprocess_face.html#afab9df96cad3f1fb86578b18bf8d9edd" title="PreprocessFace::initDetectors" alt="" coords="255,140,470,167"/>
+<area shape="rect" id="node9" href="$namespace_configuration.html#a8da95b924caecd14e2aade03c215481a" title="Configuration::getFaceCascadeName" alt="" coords="232,191,493,217"/>
+<area shape="rect" id="node10" href="$namespace_configuration.html#ab016a44355c3d812c3926b563fcd3dc9" title="Configuration::getEyeLeft\lCascadeName" alt="" coords="269,242,456,283"/>
+<area shape="rect" id="node11" href="$namespace_configuration.html#a59a3ced02391aad92b714aef7f09ac96" title="Configuration::getEyeRight\lCascadeName" alt="" coords="265,307,461,349"/>
+<area shape="rect" id="node3" href="$class_s_q_lite_connector.html#acc91703ca40ad6108838a26ecf6b32f7" title="SQLiteConnector::Query" alt="" coords="541,31,719,57"/>
+<area shape="rect" id="node6" href="$class_s_q_lite_connector.html#a6cb50f9a9c8204ece4b0ed60ab8f6fc1" title="SQLiteConnector::next" alt="" coords="547,81,713,108"/>
+<area shape="rect" id="node7" href="$namespace_configuration.html#a1617790e3569768cbc1518ad63deeb0e" title="Configuration::getFisher\lModelName" alt="" coords="542,133,718,174"/>
+<area shape="rect" id="node4" href="$class_s_q_lite_connector.html#a798bcd435680ef2efcbb139949304b9b" title="SQLiteConnector::openDatabase" alt="" coords="768,5,1000,32"/>
+<area shape="rect" id="node5" href="$class_s_q_lite_connector.html#a09388a3f817142df254f7af0b6272236" title="SQLiteConnector::closeDatabase" alt="" coords="767,56,1001,83"/>
+</map>

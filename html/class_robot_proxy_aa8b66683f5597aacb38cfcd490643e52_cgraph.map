@@ -1,0 +1,10 @@
+<map id="RobotProxy::moveljoint" name="RobotProxy::moveljoint">
+<area shape="rect" id="node2" href="$classrobot_joint.html#a5827e6d6077c75aa89b633a248534135" title="robotJoint::getJoint1" alt="" coords="252,5,403,32"/>
+<area shape="rect" id="node3" href="$classrobot_joint.html#a8f90d4931a47e825d4abba601d852366" title="robotJoint::getJoint2" alt="" coords="252,56,403,83"/>
+<area shape="rect" id="node4" href="$classrobot_joint.html#a27fef47935c62679440e505ca5f96a1c" title="robotJoint::getJoint3" alt="" coords="252,107,403,133"/>
+<area shape="rect" id="node5" href="$classrobot_joint.html#a8d1b10ef742ac0e9fe5db02a94969424" title="robotJoint::getJoint4" alt="" coords="252,157,403,184"/>
+<area shape="rect" id="node6" href="$classrobot_joint.html#a7de58b628ead92b7b3fc3bfbf074ecfc" title="robotJoint::getJoint5" alt="" coords="252,208,403,235"/>
+<area shape="rect" id="node7" href="$classrobot_joint.html#a92767ed9f917321cd2e9c86ccf7f42d9" title="robotJoint::getJoint6" alt="" coords="252,259,403,285"/>
+<area shape="rect" id="node8" href="$class_robot_proxy.html#afc13a7375e1c0b4df7925c534709cde9" title="send command to robot " alt="" coords="227,309,428,336"/>
+<area shape="rect" id="node9" href="$class_t_c_p_connect.html#abe8e084da68db3ce86477c936f744520" title="TCPConnect::write" alt="" coords="476,309,616,336"/>
+</map>
